@@ -1,45 +1,3 @@
-import os
-import sys
-import hashlib
-from pathlib import Path
-
-def get_file_hash(file_path, block_size=65536):
-    """Calculate the hash of a file"""
-    hash_md5 = hashlib.md5()
-    try:
-        with open(file_path, "rb") as f:
-            # Read the file in chunks to handle large files efficiently
-            for chunk in iter(lambda: f.read(block_size), b""):
-                hash_md5.update(chunk)
-    except Exception as e:
-        print(f"Error reading file {file_path}: {e}")
-        return None
-    return hash_md5.hexdigest()
-
-def find_duplicates_in_folder(folder_path):
-    """Find duplicate files in a folder based on their content hash"""
-    file_hashes = {}
-    duplicates = []
-    
-    try:
-        for root, dirs, files in os.walk(folder_path):
-            for filename in files:
-                file_path = os.path.join(root, filename)
-                try:
-                    file_hash = get_file_hash(file_path)
-                    if file_hash is not None:
-                        if file_hash in file_hashes:
-                            # Found a duplicate
-                            duplicates.append((file_hashes[file_hash], file_path))
-                        else:
-                            file_hashes[file_hash] = file_path
-                except Exception as e:
-                    print(f"Error processing file {file_path}: {e}")
-    except Exception as e:
-        print(f"Error walking folder {folder_path}: {e}")
-    
-    return duplicates
-
 def find_duplicates_between_folders(source_folder, search_folder):
     """Find files in source_folder that have duplicates in search_folder"""
     # First, get all files and their hashes from the search folder
@@ -48,6 +6,12 @@ def find_duplicates_between_folders(source_folder, search_folder):
     
     try:
         for root, dirs, files in os.walk(search_folder):
+            hidden_dirs = []
+            # Remove hidden directories from the walk
+            dirs[:] = [d for d in dirs if not d.startswith('.')]
+            # Save their paths for report
+            hidden_dirs.extend([os.path.join(root, d) for d in dirs if d.startswith('.')])
+
             for filename in files:
                 file_path = os.path.join(root, filename)
                 file_hash = get_file_hash(file_path)
@@ -60,9 +24,10 @@ def find_duplicates_between_folders(source_folder, search_folder):
     
     # Now check files in source folder against search folder hashes
     duplicates = []
-    
+
     try:
         for root, dirs, files in os.walk(source_folder):
+            hidden_dirs = [] # Reset hidden directories for each subfolder
             for filename in files:
                 file_path = os.path.join(root, filename)
                 file_hash = get_file_hash(file_path)
@@ -71,7 +36,13 @@ def find_duplicates_between_folders(source_folder, search_folder):
                     duplicates.append((file_path, search_hashes[file_hash]))
     except Exception as e:
         print(f"Error walking source folder {source_folder}: {e}")
-    
+
+    # After traversing, show hidden directories
+    if hidden_dirs:
+        print("\nПропущенные (скрытые) папки:")
+        for d in sorted(hidden_dirs):
+            print(f"  {d}")
+
     return duplicates
 
 def main():
@@ -100,11 +71,12 @@ def main():
     duplicates = find_duplicates_between_folders(source_folder, search_folder)
     
     if duplicates:
-        print(f"\nFound {len(duplicates)} duplicate files:")
-        for source_file, duplicate_file in duplicates:
-            print(f"  {source_file} -> {duplicate_file}")
+        print(f"\nНайденные дубликаты (всего {len(duplicates)}):")
+        for dup_file, orig_file in duplicates:
+            print(f"  Дубликат: {dup_file}")
+            print(f"  Исходный:  {orig_file}")
     else:
-        print("\nNo duplicates found.")
+        print("No duplicates found.")
 
 if __name__ == "__main__":
     main()
