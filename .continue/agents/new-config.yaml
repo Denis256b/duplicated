@@ -13,7 +13,8 @@ models:
       - edit
     capabilities:
       - tool_use 
-    contextLength: 16384
+    defaultCompletionOptions:
+      contextLength: 16384
   - name: qwen2.5-coder 1.5b
     provider: ollama
     model: qwen2.5-coder:1.5b
@@ -33,9 +34,9 @@ models:
       - autocomplete
     defaultCompletionOptions:
       contextLength: 32768
-  -  name: nomic-embed-text latest
-     model: nomic-embed-text:latest
-     provider: ollama
-     apiBase: http://192.168.50.204:11434
-     roles:
+  - name: nomic-embed-text latest
+    model: nomic-embed-text:latest
+    provider: ollama
+    apiBase: http://192.168.50.204:11434
+    roles:
       - embed
