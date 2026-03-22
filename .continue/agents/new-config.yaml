@@ -14,7 +14,7 @@ models:
     capabilities:
       - tool_use 
     defaultCompletionOptions:
-      contextLength: 16384
+      contextLength: 32768
   - name: qwen2.5-coder 1.5b
     provider: ollama
     model: qwen2.5-coder:1.5b

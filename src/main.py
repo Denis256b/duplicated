@@ -6,6 +6,7 @@
 import os
 import sys
 from duplicate_finder import find_duplicates_between_folders
+from report_generator import generate_html_report, open_html_report
 
 def main():
     # Обрабатываем параметры командной строки
@@ -46,10 +47,21 @@ def main():
     # Выводим результаты в консоль
     if duplicates:
         print(f"\nНайдено {len(duplicates)} дублирующихся файлов:")
-        for source_file, search_file in duplicates:
-            print(f"  {source_file} -> {search_file}")
+        for hash_value, group in duplicates.items():
+            print(f"Хэш: {hash_value} (размер: {group['size']} байт)")
+            for file_pair in group['files']:
+                print(f"  {file_pair['source']} -> {file_pair['search']}")
     else:
         print("\nДубликаты не найдены.")
+    
+    # Генерируем HTML-отчет
+    result_directory = "results"
+    os.makedirs(result_directory, exist_ok=True)
+    html_file = generate_html_report(duplicates, result_directory)
+    
+    if html_file:
+        # Открываем отчет в браузере
+        open_html_report(html_file)
     
     print("\nГотово.")
 
