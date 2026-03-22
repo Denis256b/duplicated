@@ -47,6 +47,24 @@ def get_file_info(file_path):
         print(f"Ошибка получения информации о файле {file_path}: {e}")
         return None
 
+def is_hidden_file(filepath):
+    """Проверяет, является ли файл скрытым"""
+    # Получаем имя файла из пути
+    filename = os.path.basename(filepath)
+    # В Unix/Linux скрытые файлы начинаются с точки
+    if filename.startswith('.'):
+        return True
+    # В Windows скрытые файлы могут быть помечены атрибутом
+    try:
+        import stat
+        file_stat = os.stat(filepath)
+        if file_stat.st_file_attributes & stat.FILE_ATTRIBUTE_HIDDEN:
+            return True
+    except:
+        # Если не удалось проверить атрибуты (например, на Unix)
+        pass
+    return False
+
 def find_duplicates_between_folders(source_folder, search_folder, use_cache=True):
     """Находит файлы в source_folder, которые имеют дубликаты в search_folder"""
     
@@ -71,8 +89,15 @@ def find_duplicates_between_folders(source_folder, search_folder, use_cache=True
         start_time = time.time()
         
         for root, dirs, files in os.walk(search_folder):
+            # Пропускаем скрытые папки
+            dirs[:] = [d for d in dirs if not is_hidden_file(os.path.join(root, d))]
+            
             for file in files:
                 file_path = os.path.join(root, file)
+                # Пропускаем скрытые файлы
+                if is_hidden_file(file_path):
+                    continue
+                    
                 try:
                     # Проверяем, есть ли данные в кэше
                     file_key = os.path.relpath(file_path, search_folder)
@@ -119,8 +144,15 @@ def find_duplicates_between_folders(source_folder, search_folder, use_cache=True
         
         duplicates = []
         for root, dirs, files in os.walk(source_folder):
+            # Пропускаем скрытые папки
+            dirs[:] = [d for d in dirs if not is_hidden_file(os.path.join(root, d))]
+            
             for file in files:
                 file_path = os.path.join(root, file)
+                # Пропускаем скрытые файлы
+                if is_hidden_file(file_path):
+                    continue
+                    
                 try:
                     # Проверяем, есть ли данные в кэше
                     file_key = os.path.relpath(file_path, source_folder)
@@ -185,10 +217,35 @@ def find_duplicates(source_folder, search_folder):
             print(f"Ошибка чтения файла {filepath}: {e}")
             return None
     
+    def is_hidden_file(filepath):
+        """Проверяет, является ли файл скрытым"""
+        # Получаем имя файла из пути
+        filename = os.path.basename(filepath)
+        # В Unix/Linux скрытые файлы начинаются с точки
+        if filename.startswith('.'):
+            return True
+        # В Windows скрытые файлы могут быть помечены атрибутом
+        try:
+            import stat
+            file_stat = os.stat(filepath)
+            if file_stat.st_file_attributes & stat.FILE_ATTRIBUTE_HIDDEN:
+                return True
+        except:
+            # Если не удалось проверить атрибуты (например, на Unix)
+            pass
+        return False
+    
     # Сначала собираем хэши файлов из папки поиска
     for root, dirs, files in os.walk(search_folder):
+        # Пропускаем скрытые папки
+        dirs[:] = [d for d in dirs if not is_hidden_file(os.path.join(root, d))]
+        
         for file in files:
             filepath = os.path.join(root, file)
+            # Пропускаем скрытые файлы
+            if is_hidden_file(filepath):
+                continue
+                
             try:
                 file_hash = get_file_hash(filepath)
                 if file_hash:
@@ -200,8 +257,15 @@ def find_duplicates(source_folder, search_folder):
     
     # Теперь проверяем файлы из исходной папки
     for root, dirs, files in os.walk(source_folder):
+        # Пропускаем скрытые папки
+        dirs[:] = [d for d in dirs if not is_hidden_file(os.path.join(root, d))]
+        
         for file in files:
             filepath = os.path.join(root, file)
+            # Пропускаем скрытые файлы
+            if is_hidden_file(filepath):
+                continue
+                
             try:
                 file_hash = get_file_hash(filepath)
                 if file_hash and file_hash in file_hashes:
