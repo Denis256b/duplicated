@@ -1,0 +1,40 @@
+---
+name: qwen3-coder 30b
+version: 1.1.0
+schema: v1
+models:
+  - name: qwen3-coder 30b
+    model: qwen3-coder:30b
+    provider: ollama
+    apiBase: http://192.168.50.204:11434/
+    roles:
+      - apply
+      - chat
+      - edit
+    capabilities:
+      - tool_use 
+  - name: qwen2.5-coder 1.5b
+    provider: ollama
+    model: qwen2.5-coder:1.5b
+    roles:
+      - apply
+      - autocomplete
+      - chat
+      - edit 
+  - name: Fast Apply 1.5B v1.0
+    provider: ollama
+    apiBase: http://192.168.50.204:11434
+    model: hf.co/dat-lequoc/Fast-Apply-1.5B-v1.0_GGUF:latest
+    roles:
+      - chat
+      - edit
+      - apply
+      - autocomplete
+    defaultCompletionOptions:
+      contextLength: 32768
+  -  name: nomic-embed-text latest
+     model: nomic-embed-text:latest
+     provider: ollama
+     apiBase: http://192.168.50.204:11434
+     roles:
+      - embed
