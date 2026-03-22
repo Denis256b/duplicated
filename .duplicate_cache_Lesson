@@ -1,0 +1,3012 @@
+{
+  "2026-01-19 18-02-28.mkv": {
+    "hash": "9ddb6fcf7919e7eb11d09db5764b1ffe",
+    "info": {
+      "size": 181098237,
+      "mtime": 1768829391.680959
+    }
+  },
+  "2026-01-20 18-02-52.mkv": {
+    "hash": "2b8581ec3029e48a46d185a779cf594c",
+    "info": {
+      "size": 32032385,
+      "mtime": 1768914348.9542701
+    }
+  },
+  "2026-01-23 18-22-26.mkv": {
+    "hash": "3bd18e2bc7f14d8b37bb75fbbe1b1618",
+    "info": {
+      "size": 661817268,
+      "mtime": 1769182026.8891323
+    }
+  },
+  "2026-02-02 18-04-52.mkv": {
+    "hash": "30c06e0e15dcc587d6bdd9792cc0632d",
+    "info": {
+      "size": 442358558,
+      "mtime": 1770041809.3009768
+    }
+  },
+  "2026-02-02 19-16-52.mkv": {
+    "hash": "1d88b03af52c1499407e70b33f493a51",
+    "info": {
+      "size": 36088883,
+      "mtime": 1770042283.4745467
+    }
+  },
+  "2026-02-02 19-27-33.mkv": {
+    "hash": "fd885179ae355b19fe21d503a3eb8405",
+    "info": {
+      "size": 499005723,
+      "mtime": 1770047134.150765
+    }
+  },
+  "2026-02-03 18-00-06.mkv": {
+    "hash": "05c5a603a34472557db419ca11eded98",
+    "info": {
+      "size": 645573405,
+      "mtime": 1770128426.8657925
+    }
+  },
+  "2026-02-03 19-31-29.mkv": {
+    "hash": "5673145ef018198f693a156a1ab18b41",
+    "info": {
+      "size": 4710951,
+      "mtime": 1770129153.8653786
+    }
+  },
+  "2026-02-03 19-32-42.mkv": {
+    "hash": "28156371b5b34a6e436b7ea8b1d2a79b",
+    "info": {
+      "size": 4464436,
+      "mtime": 1770129223.0668216
+    }
+  },
+  "2026-02-03 19-34-37.mkv": {
+    "hash": "67d0399bbb00ce784b72c60ed13cdbdf",
+    "info": {
+      "size": 608555676,
+      "mtime": 1770134116.7158115
+    }
+  },
+  "2026-02-04 18-24-04.mkv": {
+    "hash": "daa3aee74033744f3a0ea470074dc093",
+    "info": {
+      "size": 311548852,
+      "mtime": 1770216219.3090756
+    }
+  },
+  "2026-02-04 20-06-00.mkv": {
+    "hash": "4634e1e5ec4aa40558cf1fea16e381b9",
+    "info": {
+      "size": 275695465,
+      "mtime": 1770220933.626986
+    }
+  },
+  "2026-02-05 17-59-48.mkv": {
+    "hash": "bf8c61b3485afc6172e8f9463318fabb",
+    "info": {
+      "size": 402843661,
+      "mtime": 1770300922.8397312
+    }
+  },
+  "2026-02-05 19-30-40.mkv": {
+    "hash": "8763c590312564a5f5588df973db7abf",
+    "info": {
+      "size": 458137485,
+      "mtime": 1770306452.9384775
+    }
+  },
+  "2026-02-06 18-20-35.mkv": {
+    "hash": "4ab5091d241acfb0774d8634356892c6",
+    "info": {
+      "size": 488740529,
+      "mtime": 1770389444.1111703
+    }
+  },
+  "2026-02-06 20-00-57.mkv": {
+    "hash": "b2c73aa6394cb612f8eec56e54daacff",
+    "info": {
+      "size": 245408990,
+      "mtime": 1770392878.047547
+    }
+  },
+  "2026-02-09 18-02-09.mkv": {
+    "hash": "6ef179cc9fc17b10a04c1da3bf4aa8e6",
+    "info": {
+      "size": 8806353,
+      "mtime": 1770642236.0661154
+    }
+  },
+  "2026-02-09 18-05-29.mkv": {
+    "hash": "129777a0b61b671f1072bab06956c95e",
+    "info": {
+      "size": 18678672,
+      "mtime": 1770642555.170787
+    }
+  },
+  "2026-02-09 18-09-40.mkv": {
+    "hash": "015a5ecab1f1e033e18e7f3c9740ac90",
+    "info": {
+      "size": 456128690,
+      "mtime": 1770646783.0529737
+    }
+  },
+  "2026-02-10 18-15-07.mkv": {
+    "hash": "01e65a96a122638fbcab229683599fcf",
+    "info": {
+      "size": 825295922,
+      "mtime": 1770736669.763981
+    }
+  },
+  "2026-02-11 18-12-58.mkv": {
+    "hash": "032870d25a182ac9b3424804381d1bcd",
+    "info": {
+      "size": 8801367,
+      "mtime": 1770815690.2458165
+    }
+  },
+  "2026-02-11 18-16-06.mkv": {
+    "hash": "258912852c9f8db2727343ba19366880",
+    "info": {
+      "size": 10765724,
+      "mtime": 1770815902.164461
+    }
+  },
+  "2026-02-11 18-18-40.mkv": {
+    "hash": "b63b7b1151c1e09115cd3fd79e439f2b",
+    "info": {
+      "size": 302241855,
+      "mtime": 1770819600.893576
+    }
+  },
+  "2026-02-11 19-32-54.mkv": {
+    "hash": "d3cd40b1c7d7957ff61f41e3915f3f34",
+    "info": {
+      "size": 442802223,
+      "mtime": 1770824219.4905498
+    }
+  },
+  "2026-02-12 18-01-52.mkv": {
+    "hash": "032cbfaf7115339f7854b9e64ae8d033",
+    "info": {
+      "size": 482524888,
+      "mtime": 1770906094.3922231
+    }
+  },
+  "2026-02-13 18-22-08.mkv": {
+    "hash": "7245de9b72823c1b802fdef906da3ba7",
+    "info": {
+      "size": 312349032,
+      "mtime": 1770992445.4150696
+    }
+  },
+  "2026-02-16 18-03-58.mkv": {
+    "hash": "310889f25afef86f7c290fcf675da148",
+    "info": {
+      "size": 460094563,
+      "mtime": 1771251591.1923978
+    }
+  },
+  "2026-02-16 19-40-15.mkv": {
+    "hash": "5c70c1da32424114e223f527ff038920",
+    "info": {
+      "size": 471376720,
+      "mtime": 1771257366.195214
+    }
+  },
+  "2026-02-17 18-00-22.mkv": {
+    "hash": "6e2e8dfe5adc162ac137b1777e2a8f55",
+    "info": {
+      "size": 648071672,
+      "mtime": 1771337980.3323445
+    }
+  },
+  "2026-02-17 19-33-43.mkv": {
+    "hash": "9ca7e1b70fffaf4d085078debba2b8d7",
+    "info": {
+      "size": 454710184,
+      "mtime": 1771343286.9974105
+    }
+  },
+  "2026-02-18 18-00-52.mkv": {
+    "hash": "5adeed2cda8d7142b3831156bdf2493d",
+    "info": {
+      "size": 476554138,
+      "mtime": 1771424949.4347239
+    }
+  },
+  "2026-02-18 19-40-19.mkv": {
+    "hash": "440645ae773d99e9e872c95a9660c58e",
+    "info": {
+      "size": 372336273,
+      "mtime": 1771429941.3683147
+    }
+  },
+  "2026-02-19 17-58-22.mkv": {
+    "hash": "913a1b17a009bfa46d98ece050cdcc3c",
+    "info": {
+      "size": 617298198,
+      "mtime": 1771510864.6065495
+    }
+  },
+  "2026-02-19 19-30-29.mkv": {
+    "hash": "3916e70f39b58aff2adf982249a21a97",
+    "info": {
+      "size": 405154595,
+      "mtime": 1771516051.1365886
+    }
+  },
+  "2026-02-20 18-21-23.mkv": {
+    "hash": "e001f0922823c590e1379a85396a05c2",
+    "info": {
+      "size": 353151221,
+      "mtime": 1771597953.532586
+    }
+  },
+  "2026-02-20 19-33-23.mkv": {
+    "hash": "9048678026f7cb83fb24002b96255386",
+    "info": {
+      "size": 37056373,
+      "mtime": 1771598462.765115
+    }
+  },
+  "2026-02-20 19-41-03.mkv": {
+    "hash": "75f2232d36a6664f24e54a93b16b37b8",
+    "info": {
+      "size": 162936310,
+      "mtime": 1771600416.483713
+    }
+  },
+  "2026-02-24 18-04-46.mkv": {
+    "hash": "e67eb82d2d27e7dbba65df5dbd7b424b",
+    "info": {
+      "size": 613897494,
+      "mtime": 1771943772.621699
+    }
+  },
+  "2026-02-25 18-18-48.mkv": {
+    "hash": "d3dd1d64be6203a2db3d5eabfbb4616c",
+    "info": {
+      "size": 322615658,
+      "mtime": 1772029453.049802
+    }
+  },
+  "2026-02-25 19-24-53.mkv": {
+    "hash": "747f944552caba13d819f53e4c14873b",
+    "info": {
+      "size": 550577465,
+      "mtime": 1772034032.778952
+    }
+  },
+  "2026-02-27 18-01-50.mkv": {
+    "hash": "b7e43774422c8a61bdfc1d539e4f5952",
+    "info": {
+      "size": 180493591,
+      "mtime": 1772199509.9855683
+    }
+  },
+  "2026-03-02 18-09-06.mkv": {
+    "hash": "732b46fc3bba35f89af71bbf818adb38",
+    "info": {
+      "size": 359897074,
+      "mtime": 1772460803.1057055
+    }
+  },
+  "2026-03-02 19-13-25.mkv": {
+    "hash": "a65033a28b5f9bdd81b5bec8128092c9",
+    "info": {
+      "size": 21228851,
+      "mtime": 1772461561.732417
+    }
+  },
+  "2026-03-02 19-26-02.mkv": {
+    "hash": "b1395f2b2afc6ee7b62877a95d597930",
+    "info": {
+      "size": 298463203,
+      "mtime": 1772467157.9868784
+    }
+  },
+  "2026-03-03 19-32-39.mkv": {
+    "hash": "53ace2727a5691985483b2b0a27cfea9",
+    "info": {
+      "size": 499408825,
+      "mtime": 1772553028.2442071
+    }
+  },
+  "2026-03-04 18-20-46.mkv": {
+    "hash": "38db8c3759bce3d3dbd92b18a2acb146",
+    "info": {
+      "size": 394052709,
+      "mtime": 1772635497.8907745
+    }
+  },
+  "2026-03-04 19-44-59.mkv": {
+    "hash": "b3a72c0e5684e861d9453bcc5991def9",
+    "info": {
+      "size": 66233090,
+      "mtime": 1772636326.1652164
+    }
+  },
+  "2026-03-04 19-59-16.mkv": {
+    "hash": "c0740467dc34bbfa9960a51ad691120c",
+    "info": {
+      "size": 344897146,
+      "mtime": 1772640855.302423
+    }
+  },
+  "2026-03-05 18-30-43.mkv": {
+    "hash": "da85a83c9a7833ee7cac20a71b84b09c",
+    "info": {
+      "size": 271207365,
+      "mtime": 1772720118.3175614
+    }
+  },
+  "2026-03-05 19-24-53.mkv": {
+    "hash": "5307c4ed8c2a6bdf39b15478f932d4ad",
+    "info": {
+      "size": 352256454,
+      "mtime": 1772725791.3727508
+    }
+  },
+  "2026-03-06 18-03-23.mkv": {
+    "hash": "0bf593a7d1b4e867536d5333a3676bb3",
+    "info": {
+      "size": 333255297,
+      "mtime": 1772805997.9779413
+    }
+  },
+  "2026-03-06 19-17-20.mkv": {
+    "hash": "3a27b4ddb471c12893899aeaf0513444",
+    "info": {
+      "size": 522691345,
+      "mtime": 1772812710.9990847
+    }
+  },
+  "2026-03-10 18-07-54.mkv": {
+    "hash": "7e7404dd082894cead95343b6577dade",
+    "info": {
+      "size": 793966558,
+      "mtime": 1773155637.2413785
+    }
+  },
+  "2026-03-11 18-22-32.mkv": {
+    "hash": "ffdfbf57814b40ab0792c00acdebd04b",
+    "info": {
+      "size": 295066998,
+      "mtime": 1773239348.1348143
+    }
+  },
+  "2026-03-11 19-35-04.mkv": {
+    "hash": "5d9db4e30904d113ac88d300db6c6e35",
+    "info": {
+      "size": 506233812,
+      "mtime": 1773244788.8783765
+    }
+  },
+  "2026-03-12 13-01-10.mkv": {
+    "hash": "5466b0935c1295ad3d1e2ee0e28c0e15",
+    "info": {
+      "size": 450002391,
+      "mtime": 1773325244.178805
+    }
+  },
+  "2026-03-13 18-09-02.mkv": {
+    "hash": "63b12fd63af2140e842ccb740b8ee677",
+    "info": {
+      "size": 362054240,
+      "mtime": 1773411365.6098888
+    }
+  },
+  "2026-03-16 19-17-21.mkv": {
+    "hash": "4e8241fc5af9748e81d82e64b4290c85",
+    "info": {
+      "size": 392421288,
+      "mtime": 1773677854.7192018
+    }
+  },
+  "2026-03-18 18-20-51.mkv": {
+    "hash": "3687853c2aaede003245a47ea26c78b0",
+    "info": {
+      "size": 406649015,
+      "mtime": 1773845033.4727805
+    }
+  },
+  "2026-03-19 18-02-44.mkv": {
+    "hash": "9d6161c689db55c2cf041183ea8fad11",
+    "info": {
+      "size": 541467936,
+      "mtime": 1773930321.987083
+    }
+  },
+  "2026-03-19 19-31-15.mkv": {
+    "hash": "eab324be303e0c6d718ab5aab8477975",
+    "info": {
+      "size": 215712123,
+      "mtime": 1773933542.6052015
+    }
+  },
+  "2026-03-19 20-29-37.mkv": {
+    "hash": "aa4753f750b8c517eaa3e51998b4cef4",
+    "info": {
+      "size": 31878177,
+      "mtime": 1773934711.4846725
+    }
+  },
+  "2026-03-20 18-00-37.mkv": {
+    "hash": "d73186c47c1c733eac62270afd3e486c",
+    "info": {
+      "size": 7992711,
+      "mtime": 1774011738.7683542
+    }
+  },
+  "2026-03-20 18-03-56.mkv": {
+    "hash": "29b9d276c31f24f8fcdfcfe2fea203dd",
+    "info": {
+      "size": 442194722,
+      "mtime": 1774016435.9650583
+    }
+  },
+  "2026-03-20 19-32-39.mkv": {
+    "hash": "88ab4572c92616b488bac9d0a3f4e304",
+    "info": {
+      "size": 380782941,
+      "mtime": 1774021524.8421144
+    }
+  },
+  "2026-03-21 11-34-52.mkv": {
+    "hash": "d2451fca6d8c516f90260e0aa02a498f",
+    "info": {
+      "size": 139788956,
+      "mtime": 1774076159.9562697
+    }
+  },
+  "9086-gartner-hype-curve.pptx": {
+    "hash": "9d0bc019bc656cad056ab64f9f47afa6",
+    "info": {
+      "size": 134095,
+      "mtime": 1768470358.1993022
+    }
+  },
+  "advanced computing.docx": {
+    "hash": "e4e063f755c31441db4d5a72b0d395d5",
+    "info": {
+      "size": 17731,
+      "mtime": 1772718598.9724143
+    }
+  },
+  "computer networks 20.02.docx": {
+    "hash": "9d425f8c56f3df320f2ca5000f095ecd",
+    "info": {
+      "size": 24269,
+      "mtime": 1772718781.0394726
+    }
+  },
+  "computing. 05.03.docx": {
+    "hash": "b99dcde937dd5d4a06a33aaec59cf2c6",
+    "info": {
+      "size": 26017,
+      "mtime": 1772719273.0926576
+    }
+  },
+  "Market-Clocks---Example-solution.xlsx": {
+    "hash": "4e7bf10647ce1d97e3ad605544a2fa7b",
+    "info": {
+      "size": 34185,
+      "mtime": 1468921619.0
+    }
+  },
+  "ObsidianRAG-1.0.0.tar.gz": {
+    "hash": "df046163671c52ead0fe17aa2e7ac28e",
+    "info": {
+      "size": 1602873,
+      "mtime": 1768046249.116347
+    }
+  },
+  "ObsidianRAG-1.0.0.zip": {
+    "hash": "3ae9f35f54613ec342e07de3600ef978",
+    "info": {
+      "size": 1628094,
+      "mtime": 1768045565.5538013
+    }
+  },
+  "Programming Languages 20.03.docx": {
+    "hash": "2d8051f5ce350e0dbe2fdad9138471e4",
+    "info": {
+      "size": 18513,
+      "mtime": 1772718915.6660812
+    }
+  },
+  "Thumbs.db": {
+    "hash": "6bdbd4eabfb2a02785760f10630e24f9",
+    "info": {
+      "size": 49152,
+      "mtime": 1763787486.102
+    }
+  },
+  "\u211635_\u0418\u0418\u0432\u0411\u041c_\u0427\u0430\u043b\u0435\u0439_040326.mp4": {
+    "hash": "58c12ca64e957d1fea8889e47031752f",
+    "info": {
+      "size": 159330274,
+      "mtime": 1772648281.286905
+    }
+  },
+  "\u211650_\u041b\u0438\u0434\u0438\u041a\u043e\u043c_\u0417\u0435\u043b\u0435\u043d\u0446\u043e\u0432\u0430_210326.mkv": {
+    "hash": "d2451fca6d8c516f90260e0aa02a498f",
+    "info": {
+      "size": 139788956,
+      "mtime": 1774076159.9562697
+    }
+  },
+  "distrib\\MAX.msi": {
+    "hash": "0a4de5405530a414af45b91a93ba8b03",
+    "info": {
+      "size": 308432896,
+      "mtime": 1767986725.1714003
+    }
+  },
+  "distrib\\Obsidian-1.9.14.exe": {
+    "hash": "841e9c34b49f69f3ead52429d16f8b7b",
+    "info": {
+      "size": 277991104,
+      "mtime": 1759946970.3762512
+    }
+  },
+  "distrib\\SyncTrayzorSetup-x64.exe": {
+    "hash": "429c01b77ef2a87c04b82077d5c2d8bf",
+    "info": {
+      "size": 187530066,
+      "mtime": 1763403224.3130124
+    }
+  },
+  "duplicated\\duplicate_report.html": {
+    "hash": "fa32c770147c775a9b922f9186e03d4e",
+    "info": {
+      "size": 11630,
+      "mtime": 1774200292.0648913
+    }
+  },
+  "duplicated\\src\\duplicate_finder.py": {
+    "hash": "c132921dce8ab1010aed7634674a53c4",
+    "info": {
+      "size": 9229,
+      "mtime": 1774199562.8238642
+    }
+  },
+  "duplicated\\src\\main.py": {
+    "hash": "ed4eed57c4f35b934d3534a66d1f4733",
+    "info": {
+      "size": 2502,
+      "mtime": 1774198741.3415282
+    }
+  },
+  "duplicated\\src\\report_generator.py": {
+    "hash": "b643aeb3fce7cbea26bfedd6a57ff28f",
+    "info": {
+      "size": 4932,
+      "mtime": 1774198741.3405302
+    }
+  },
+  "duplicated\\src\\utils copy.py": {
+    "hash": "310ce84ead9f9c7884c54f714bc7c957",
+    "info": {
+      "size": 1971,
+      "mtime": 1774199615.1830823
+    }
+  },
+  "duplicated\\src\\utils.py": {
+    "hash": "310ce84ead9f9c7884c54f714bc7c957",
+    "info": {
+      "size": 1971,
+      "mtime": 1774198741.3794248
+    }
+  },
+  "duplicated\\src\\__pycache__\\duplicate_finder.cpython-313.pyc": {
+    "hash": "4a6e74bd8d62250e2a7ed5878910c1f5",
+    "info": {
+      "size": 15995,
+      "mtime": 1774199487.0048325
+    }
+  },
+  "duplicated\\src\\__pycache__\\report_generator.cpython-313.pyc": {
+    "hash": "882fbde97b2ec443a88ee3e16e72d963",
+    "info": {
+      "size": 5698,
+      "mtime": 1774199571.2051876
+    }
+  },
+  "duplicated\\src\\__pycache__\\utils.cpython-313.pyc": {
+    "hash": "1eecc4285792681464a1712f4d69bc58",
+    "info": {
+      "size": 3758,
+      "mtime": 1774199571.2031927
+    }
+  },
+  "loginom\\Loginom \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445 1 \u043f\u0435\u0440\u0435\u0441\u043a\u0430\u0437.docx": {
+    "hash": "c89ebb07455769de65e1b26d9d97a2bf",
+    "info": {
+      "size": 17397,
+      "mtime": 1763291821.0215983
+    }
+  },
+  "loginom\\Loginom \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445 2 \u043f\u0435\u0440\u0435\u0441\u043a\u0430\u0437.docx": {
+    "hash": "ddacb334b9c4bef7004e4152992d7021",
+    "info": {
+      "size": 17127,
+      "mtime": 1763291837.2701118
+    }
+  },
+  "loginom\\Loginom \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445 3 \u043f\u0435\u0440\u0435\u0441\u043a\u0430\u0437.docx": {
+    "hash": "471eb1df6968ff3cba1181cfc456e363",
+    "info": {
+      "size": 16681,
+      "mtime": 1763291863.9686275
+    }
+  },
+  "loginom\\test1.lgp": {
+    "hash": "ceff2665b9e2b54d4bbd986933ebc1d9",
+    "info": {
+      "size": 5017,
+      "mtime": 1760856843.4738095
+    }
+  },
+  "loginom\\test1.xlsx": {
+    "hash": "a9296a0ee6c70af09ed17630019dd55e",
+    "info": {
+      "size": 4167,
+      "mtime": 1760857673.647317
+    }
+  },
+  "loginom\\\u0433\u043e\u0434\u044b.xlsx": {
+    "hash": "9d3f67308fc9a082fcc509190d1c505a",
+    "info": {
+      "size": 10879,
+      "mtime": 1761508013.9799907
+    }
+  },
+  "loginom\\\u0414\u0435\u043d\u044c 2 - \u0414\u0435\u043c\u043e \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0430.lgp": {
+    "hash": "30d0537c662b6725c15205552fd66a18",
+    "info": {
+      "size": 33619,
+      "mtime": 1759151571.674129
+    }
+  },
+  "loginom\\\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u04421.docx": {
+    "hash": "535b764d212de8eee58c71901577799d",
+    "info": {
+      "size": 58479,
+      "mtime": 1760879763.1658275
+    }
+  },
+  "loginom\\\u0424\u0430\u0439\u043b\u044b \u0434\u043b\u044f \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u043f\u0440\u0438\u043c\u0435\u0440\u0430-20250929.zip": {
+    "hash": "5a92b48e30cb56361c2e86e36a6863ed",
+    "info": {
+      "size": 2991191,
+      "mtime": 1759151579.2475455
+    }
+  },
+  "loginom\\Day2\\\u0414\u0435\u043d\u044c 2 - \u0414\u0435\u043c\u043e \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0430.lgp": {
+    "hash": "30d0537c662b6725c15205552fd66a18",
+    "info": {
+      "size": 33619,
+      "mtime": 1675089290.4411075
+    }
+  },
+  "loginom\\Day2\\\u0414\u0435\u043d\u044c 2 - \u0414\u0435\u043c\u043e \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0430.lgp.lck": {
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "info": {
+      "size": 0,
+      "mtime": 1766238610.6795764
+    }
+  },
+  "loginom\\Day2\\\u0414\u0435\u043d\u044c 2 - \u0414\u0435\u043c\u043e \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0430.~lgp": {
+    "hash": "ab71e89979f2f5a4c720c7dd27d1b12e",
+    "info": {
+      "size": 34847,
+      "mtime": 1760867552.1738594
+    }
+  },
+  "loginom\\Day2\\\u041c\u0430\u0440\u0430\u0444\u043e\u043d - \u0434\u0435\u043d\u044c 2.7z": {
+    "hash": "c0700196d7edd3a41ff65ac590191300",
+    "info": {
+      "size": 2842679,
+      "mtime": 1759152642.8850954
+    }
+  },
+  "loginom\\Day2\\Demo Data\\Clients.lgd": {
+    "hash": "b97b0e333f765524b659820b6201724a",
+    "info": {
+      "size": 128989,
+      "mtime": 1757943874.0
+    }
+  },
+  "loginom\\Day2\\Demo Data\\Products.lgd": {
+    "hash": "714ec2872af2a440d449865e30bb3a02",
+    "info": {
+      "size": 1749925,
+      "mtime": 1757943874.0
+    }
+  },
+  "loginom\\Day2\\Demo Data\\Sales.lgd": {
+    "hash": "921d0ecdc46a0e576f9a75dfaa4ab0dc",
+    "info": {
+      "size": 1537083,
+      "mtime": 1757943874.0
+    }
+  },
+  "loginom\\Day3\\Data.zip": {
+    "hash": "c8718b931487775d37e65839fd139d97",
+    "info": {
+      "size": 46233543,
+      "mtime": 1760881766.143867
+    }
+  },
+  "loginom\\Day3\\\u0418\u043c\u043f\u043e\u0440\u0442 \u0434\u0430\u043d\u043d\u044b\u0445 \u0438\u0437 Excel \u0438 CSV.lgp": {
+    "hash": "9e82ad026b6cab30c094828a9c9f5e0c",
+    "info": {
+      "size": 5105,
+      "mtime": 1760882139.4450104
+    }
+  },
+  "loginom\\Day3\\Data\\Clients.xlsx": {
+    "hash": "36fcbb3bbedb10395138fbe14a0c9a15",
+    "info": {
+      "size": 163654,
+      "mtime": 1675497518.9071145
+    }
+  },
+  "loginom\\Day3\\Data\\Products.csv": {
+    "hash": "b96fdce180f0475a0c4ebb8e8928aa87",
+    "info": {
+      "size": 3473184,
+      "mtime": 1675497544.3240616
+    }
+  },
+  "loginom\\Day3\\Data\\Sales.csv": {
+    "hash": "a400246f5fc4169147059f3ed2d45479",
+    "info": {
+      "size": 88843123,
+      "mtime": 1675497596.386308
+    }
+  },
+  "loginom\\Day3\\Data\\sales_transactions.db": {
+    "hash": "5967f0706c8e85b1b3cb9b144a6ca24e",
+    "info": {
+      "size": 176144384,
+      "mtime": 1675497648.5705602
+    }
+  },
+  "loginom\\Demo Data\\Clients.lgd": {
+    "hash": "b97b0e333f765524b659820b6201724a",
+    "info": {
+      "size": 128989,
+      "mtime": 1757943874.0
+    }
+  },
+  "loginom\\Demo Data\\Products.lgd": {
+    "hash": "714ec2872af2a440d449865e30bb3a02",
+    "info": {
+      "size": 1749925,
+      "mtime": 1757943874.0
+    }
+  },
+  "loginom\\Demo Data\\Sales.lgd": {
+    "hash": "921d0ecdc46a0e576f9a75dfaa4ab0dc",
+    "info": {
+      "size": 1537083,
+      "mtime": 1757943874.0
+    }
+  },
+  "Obsidian\\Education\\COBIT.md": {
+    "hash": "8f8917ecaf6a137551c6dfc515611c04",
+    "info": {
+      "size": 114,
+      "mtime": 1762957689.2672174
+    }
+  },
+  "Obsidian\\Education\\Loginom.md": {
+    "hash": "1b56fe0e68f384a42370357f43c7b213",
+    "info": {
+      "size": 3374,
+      "mtime": 1764405264.3098073
+    }
+  },
+  "Obsidian\\Education\\Pasted image 20251014221516.png": {
+    "hash": "4860beb427b7aa5e7f6d8a6e45a72203",
+    "info": {
+      "size": 2301726,
+      "mtime": 1760462116.6546588
+    }
+  },
+  "Obsidian\\Education\\Pasted image 20251014221651.png": {
+    "hash": "2c885ea90f1690a22578b542195e0de0",
+    "info": {
+      "size": 1709680,
+      "mtime": 1760462211.1677024
+    }
+  },
+  "Obsidian\\Education\\Pasted image 20251014225509.png": {
+    "hash": "dc40e67efa4fd25edf8e3382f587ac1b",
+    "info": {
+      "size": 445151,
+      "mtime": 1760464509.8628745
+    }
+  },
+  "Obsidian\\Education\\Pasted image 20251014225941.png": {
+    "hash": "3f780e2b7b8d737f064372b2507024d4",
+    "info": {
+      "size": 109222,
+      "mtime": 1760464781.5923717
+    }
+  },
+  "Obsidian\\Education\\Pasted image 20251014230019.png": {
+    "hash": "e29c158c8768a68429d5961d15fc6e83",
+    "info": {
+      "size": 420358,
+      "mtime": 1760464819.6713843
+    }
+  },
+  "Obsidian\\Education\\Pasted image 20251112182725.png": {
+    "hash": "76f0d74265a8efd5dc0b33d17232a8e8",
+    "info": {
+      "size": 905929,
+      "mtime": 1762954045.6947753
+    }
+  },
+  "Obsidian\\Education\\Pasted image 20251112183008.png": {
+    "hash": "e03b0323cb67fec390329891a26f39b6",
+    "info": {
+      "size": 339146,
+      "mtime": 1762954208.2661283
+    }
+  },
+  "Obsidian\\Education\\Pasted image 20251112192804.png": {
+    "hash": "4a7e03755d32fd9eb2b5191cf17ead19",
+    "info": {
+      "size": 849651,
+      "mtime": 1762957683.727871
+    }
+  },
+  "Obsidian\\Education\\\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f.base": {
+    "hash": "c12a2c0a3b286d20547edac30bb0e713",
+    "info": {
+      "size": 48,
+      "mtime": 1762954127.031758
+    }
+  },
+  "Obsidian\\Education\\\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f.md": {
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "info": {
+      "size": 0,
+      "mtime": 1760555390.4799156
+    }
+  },
+  "Obsidian\\Education\\\u0413\u0440\u0430\u0444\u0438\u043a \u0440\u0430\u0431\u043e\u0442\u044b.md": {
+    "hash": "145ae25ceba7518e807de6a202cf06fc",
+    "info": {
+      "size": 239,
+      "mtime": 1760462286.3265471
+    }
+  },
+  "Obsidian\\Education\\\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c.md": {
+    "hash": "88b3cb592e28c13d2ddb584dc3b0d7db",
+    "info": {
+      "size": 639,
+      "mtime": 1763130015.9796195
+    }
+  },
+  "Obsidian\\Education\\\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430. \u0422\u0435\u043d\u0434\u0435\u043d\u0446\u0438\u0438 \u0438 \u043f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u044b.md": {
+    "hash": "aa04946d8773eef3992a9cee742f1964",
+    "info": {
+      "size": 80,
+      "mtime": 1760380645.4296424
+    }
+  },
+  "Obsidian\\Education\\\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0418\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442.md": {
+    "hash": "33c640898add569c9cac49e2f9afadd1",
+    "info": {
+      "size": 114,
+      "mtime": 1760378099.1928165
+    }
+  },
+  "Obsidian\\Education\\\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0438 \u043c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u043d\u0430\u0443\u043a\u0438.md": {
+    "hash": "63c3572e45708cd6d6593fa44f0b1993",
+    "info": {
+      "size": 272,
+      "mtime": 1760464884.88978
+    }
+  },
+  "Obsidian\\Education\\\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u0430\u044f \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u044f.md": {
+    "hash": "e08c395eacbf775ad4ed6f2a54c076e4",
+    "info": {
+      "size": 177,
+      "mtime": 1760464027.8665178
+    }
+  },
+  "Obsidian\\Education\\\u0421\u043f\u0438\u0441\u043e\u043a \u0433\u0440\u0443\u043f\u043f\u044b.md": {
+    "hash": "292d0aa97855a9eccdca913f4cf92569",
+    "info": {
+      "size": 1054,
+      "mtime": 1760465638.7930086
+    }
+  },
+  "Obsidian\\Education\\\u0421\u043f\u0438\u0441\u043e\u043a \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d.md": {
+    "hash": "f5c6736cc76067615f12afef209f6ab6",
+    "info": {
+      "size": 744,
+      "mtime": 1760464499.9112535
+    }
+  },
+  "Obsidian\\Education\\\u0421\u043f\u0438\u0441\u043e\u043a \u0442\u0435\u043c.md": {
+    "hash": "1bed8fc558bd865d568c9edabc0eb5ef",
+    "info": {
+      "size": 1035,
+      "mtime": 1762114051.3495567
+    }
+  },
+  "Obsidian\\Education\\\u0421\u043f\u0438\u0441\u043e\u043a.md": {
+    "hash": "c089e383ded232e698b170abff879efb",
+    "info": {
+      "size": 56,
+      "mtime": 1759949806.0952113
+    }
+  },
+  "Obsidian\\Education\\\u0421\u0441\u044b\u043b\u043a\u0438.md": {
+    "hash": "350452107f2fe603adf9f7f0b4ddd39a",
+    "info": {
+      "size": 2053,
+      "mtime": 1760380895.4030383
+    }
+  },
+  "Obsidian\\Education\\\u0422\u0430\u0431\u043b\u0438\u0446\u0430.md": {
+    "hash": "d1643dc7cd2a196cbfe9d0b75fd99ffe",
+    "info": {
+      "size": 138,
+      "mtime": 1760461367.5932057
+    }
+  },
+  "Obsidian\\Education\\\u0442\u0435\u043e\u0440\u0438\u044f \u0433\u0430\u043b\u044c\u043f\u0435\u0440\u0438\u043d\u0430.md": {
+    "hash": "0b79691712e4d57a0e1c72471aa0bbd9",
+    "info": {
+      "size": 144,
+      "mtime": 1765131842.5023596
+    }
+  },
+  "Obsidian\\Education\\books\\Allen_B_Dauni_Osnovy_Python_Nauchites_dumat_kak_programmist_Mann.pdf": {
+    "hash": "f3969c59f1fd0f77dfe5eb244dd8461a",
+    "info": {
+      "size": 2330537,
+      "mtime": 1760463489.5003412
+    }
+  },
+  "Obsidian\\Education\\document\\\u0434\u0438\u043f\u043b\u043e\u043c.pdf": {
+    "hash": "c69af1bf962313efcdee6cce069250ec",
+    "info": {
+      "size": 933299,
+      "mtime": 1760469289.3789434
+    }
+  },
+  "Obsidian\\Education\\document\\\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u04351.pdf": {
+    "hash": "d3f7895905096251bebf48b419f50436",
+    "info": {
+      "size": 1699720,
+      "mtime": 1760469289.1832297
+    }
+  },
+  "Obsidian\\Education\\document\\\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u04352.pdf": {
+    "hash": "20d02726d99c312519c305c20c4eb639",
+    "info": {
+      "size": 1599558,
+      "mtime": 1760469289.0153844
+    }
+  },
+  "Obsidian\\Education\\English\\Proverb and Saying on Politeness.png": {
+    "hash": "8fa14ece7d583cf9761c2e88ffb76cec",
+    "info": {
+      "size": 891686,
+      "mtime": 1760555433.377453
+    }
+  },
+  "Obsidian\\Education\\English\\Read the text and find out 10 things that are appropriate inappropriate for Russians..md": {
+    "hash": "0a9d9b62657aedb5688f96cbedc604ba",
+    "info": {
+      "size": 30153,
+      "mtime": 1763292671.4026997
+    }
+  },
+  "Obsidian\\Education\\English\\\u0421\u043f\u0438\u0441\u043e\u043a.md": {
+    "hash": "0e49bfe01a078a9d5a910ec0ad31e526",
+    "info": {
+      "size": 145,
+      "mtime": 1764178497.6604614
+    }
+  },
+  "Obsidian\\Education\\English\\img\\Pasted image 20251116162509.png": {
+    "hash": "0d8c2cbc9b72edbbe747132027619ed3",
+    "info": {
+      "size": 14786293,
+      "mtime": 1763292309.1949532
+    }
+  },
+  "Obsidian\\Education\\images\\\u0420\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0437\u0432\u043e\u043d\u043a\u043e\u0432.jpg": {
+    "hash": "d158cd73430c38b1c6fd280b1bea96d4",
+    "info": {
+      "size": 72495,
+      "mtime": 1760380789.5773025
+    }
+  },
+  "Obsidian\\Education\\images\\\u0420\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435.jpg": {
+    "hash": "68406f126086a6ebe811d6dab1c85fe2",
+    "info": {
+      "size": 147537,
+      "mtime": 1760380728.1078827
+    }
+  },
+  "Obsidian\\Education\\\u0422\u0420\u0418\u0417\\\u0422\u0420\u0418\u0417.md": {
+    "hash": "c518a1830bdf112b6af4a3106ddb9e5b",
+    "info": {
+      "size": 112,
+      "mtime": 1762111259.3615682
+    }
+  },
+  "Obsidian\\Education\\\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u043c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435\u043c\\\u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b.xlsx": {
+    "hash": "eb382549c7ddf05d76d8b27df784ed6e",
+    "info": {
+      "size": 23683,
+      "mtime": 1762886798.227219
+    }
+  },
+  "Obsidian\\Education\\\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u043c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435\u043c\\\u043b\u0430\u0431\u04301.md": {
+    "hash": "46b030d8a53ab0a45c5fb96eff8cb77c",
+    "info": {
+      "size": 700,
+      "mtime": 1762880258.6690295
+    }
+  },
+  "Obsidian\\Education\\\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u043c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435\u043c\\books\\\u041b\u0438\u0447\u043d\u043e\u0441\u0442\u043d\u043e\u0435 \u0438 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0432\u0437\u0440\u043e\u0441\u043b\u043e\u0433\u043e.pdf": {
+    "hash": "f07e57893089689bd2642f54d0efabbe",
+    "info": {
+      "size": 2464341,
+      "mtime": 1761070620.8238513
+    }
+  },
+  "Obsidian\\Education demo\\\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c.md": {
+    "hash": "0842d9957969d958f9761be5699c92d7",
+    "info": {
+      "size": 586,
+      "mtime": 1760378115.586168
+    }
+  },
+  "Obsidian\\Education demo\\\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430. \u0422\u0435\u043d\u0434\u0435\u043d\u0446\u0438\u0438 \u0438 \u043f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u044b.md": {
+    "hash": "aa04946d8773eef3992a9cee742f1964",
+    "info": {
+      "size": 80,
+      "mtime": 1760380645.4296424
+    }
+  },
+  "Obsidian\\Education demo\\\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0418\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442.md": {
+    "hash": "33c640898add569c9cac49e2f9afadd1",
+    "info": {
+      "size": 114,
+      "mtime": 1760378099.1928165
+    }
+  },
+  "Obsidian\\Education demo\\\u0421\u043f\u0438\u0441\u043e\u043a \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d.md": {
+    "hash": "ff76ae68501aaa738faac70dcc086567",
+    "info": {
+      "size": 579,
+      "mtime": 1760380759.340565
+    }
+  },
+  "Obsidian\\Education demo\\\u0421\u043f\u0438\u0441\u043e\u043a.md": {
+    "hash": "c089e383ded232e698b170abff879efb",
+    "info": {
+      "size": 56,
+      "mtime": 1759949806.0952113
+    }
+  },
+  "Obsidian\\Education demo\\\u0421\u0441\u044b\u043b\u043a\u0438.md": {
+    "hash": "350452107f2fe603adf9f7f0b4ddd39a",
+    "info": {
+      "size": 2053,
+      "mtime": 1760380895.4030383
+    }
+  },
+  "Obsidian\\Education demo\\\u0422\u0430\u0431\u043b\u0438\u0446\u0430.md": {
+    "hash": "9dffd223e277c1133b48a18ba3fe9084",
+    "info": {
+      "size": 102,
+      "mtime": 1760102313.493033
+    }
+  },
+  "Obsidian\\Education demo\\images\\\u0420\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0437\u0432\u043e\u043d\u043a\u043e\u0432.jpg": {
+    "hash": "d158cd73430c38b1c6fd280b1bea96d4",
+    "info": {
+      "size": 72495,
+      "mtime": 1760380789.5773025
+    }
+  },
+  "Obsidian\\Education demo\\images\\\u0420\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435.jpg": {
+    "hash": "68406f126086a6ebe811d6dab1c85fe2",
+    "info": {
+      "size": 147537,
+      "mtime": 1760380728.1078827
+    }
+  },
+  "Obsidian\\Obsidian Vault\\2025-10-08.md": {
+    "hash": "66802866100cc042c0eea64c59cd6957",
+    "info": {
+      "size": 91,
+      "mtime": 1759947621.3364816
+    }
+  },
+  "Obsidian\\Obsidian Vault\\\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f 1.base": {
+    "hash": "c12a2c0a3b286d20547edac30bb0e713",
+    "info": {
+      "size": 48,
+      "mtime": 1759947263.4029586
+    }
+  },
+  "Obsidian\\Obsidian Vault\\\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f.base": {
+    "hash": "c12a2c0a3b286d20547edac30bb0e713",
+    "info": {
+      "size": 48,
+      "mtime": 1759947258.9938755
+    }
+  },
+  "Obsidian\\Obsidian Vault\\\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c.md": {
+    "hash": "e91c7394f7da526a4d0fe703addd4cf2",
+    "info": {
+      "size": 422,
+      "mtime": 1759947523.5577335
+    }
+  },
+  "Obsidian\\Obsidian Vault\\\u041f\u0435\u0440\u0432\u044b\u0439 \u0445\u043e\u043b\u0441\u0442.canvas": {
+    "hash": "c76193e2e9915aab27df0df21b147704",
+    "info": {
+      "size": 689,
+      "mtime": 1759947207.5654335
+    }
+  },
+  "Obsidian\\Obsidian Vault\\\u0441\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0441\u044b\u043b\u043a\u0443.md": {
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "info": {
+      "size": 0,
+      "mtime": 1759947058.1638622
+    }
+  },
+  "Python\\lab2.ipynb": {
+    "hash": "9ddd4bee0917324500bda4a0b91416cd",
+    "info": {
+      "size": 3266,
+      "mtime": 1759557943.4665778
+    }
+  },
+  "Python\\lab_example.py": {
+    "hash": "ab4ef99cf03b82170d4b87b30e489a7d",
+    "info": {
+      "size": 472,
+      "mtime": 1758807988.6446712
+    }
+  },
+  "Python\\popul.py": {
+    "hash": "6348d5b6fd7d537b7e1fbbb50c32515b",
+    "info": {
+      "size": 2012,
+      "mtime": 1758296657.102367
+    }
+  },
+  "Python\\prog0.py": {
+    "hash": "492443ae732bd464bf5ede8d5166f8c3",
+    "info": {
+      "size": 100,
+      "mtime": 1758912858.6717217
+    }
+  },
+  "Python\\prog1.py": {
+    "hash": "eadbfa2b0f962923bff665fcd793052c",
+    "info": {
+      "size": 1623,
+      "mtime": 1758952081.0191588
+    }
+  },
+  "Python\\prog2.py": {
+    "hash": "dbfa86bd8e301a094d471291ae22c5e6",
+    "info": {
+      "size": 1315,
+      "mtime": 1759511108.8746288
+    }
+  },
+  "Python\\prog3.py": {
+    "hash": "ebe0f1d233873e8dfaef355c1392c645",
+    "info": {
+      "size": 1120,
+      "mtime": 1760160668.3996959
+    }
+  },
+  "Python\\prog4_1.py": {
+    "hash": "1c755bcb364d528b9d937c18970036cb",
+    "info": {
+      "size": 1288,
+      "mtime": 1763186629.7361078
+    }
+  },
+  "Python\\prog4_2.py": {
+    "hash": "b07e34d07b509630991984b7a31f2763",
+    "info": {
+      "size": 2018,
+      "mtime": 1763185833.7909083
+    }
+  },
+  "Python\\prog5_1.py": {
+    "hash": "8e9239dec5d8a473fd169c4092756b91",
+    "info": {
+      "size": 3258,
+      "mtime": 1764394688.967569
+    }
+  },
+  "Python\\prog5_2.py": {
+    "hash": "3f98957fdd81c113b4f005bc42fe88a2",
+    "info": {
+      "size": 5217,
+      "mtime": 1764395353.667025
+    }
+  },
+  "Python\\ss": {
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "info": {
+      "size": 0,
+      "mtime": 1758951026.6546507
+    }
+  },
+  "Python\\test 2.ipynb": {
+    "hash": "8a22b75431134fdf8a8790f5f1293134",
+    "info": {
+      "size": 104450,
+      "mtime": 1763179604.0619438
+    }
+  },
+  "Python\\test.ipynb": {
+    "hash": "0f3de84cf1cfd3ab6d8aa4e0dd5f0725",
+    "info": {
+      "size": 3439,
+      "mtime": 1758949720.1572657
+    }
+  },
+  "Python\\test.py": {
+    "hash": "90c31deacf9c7026d1f70ee4aa03bb44",
+    "info": {
+      "size": 59,
+      "mtime": 1765464307.0204656
+    }
+  },
+  "Python\\galkin\\pr.py": {
+    "hash": "9a03946f67fba18bdaebc518896d1038",
+    "info": {
+      "size": 178,
+      "mtime": 1773582299.9005642
+    }
+  },
+  "Python\\galkin\\text.md": {
+    "hash": "19d4db31e5c55c38b0fc946509d0c706",
+    "info": {
+      "size": 3295,
+      "mtime": 1773684016.6408956
+    }
+  },
+  "sync\\601-51\u043c. \u0421\u0435\u043c\u0435\u0441\u0442\u0440 1.xlsx": {
+    "hash": "6a0f3e0abddf475041e23e9b22c6ce3f",
+    "info": {
+      "size": 112405,
+      "mtime": 1767987028.5033498
+    }
+  },
+  "sync\\Doc2.docx": {
+    "hash": "0c1c90f2b8c9124a05de8a0b2eb88e8b",
+    "info": {
+      "size": 16004,
+      "mtime": 1773163604.95033
+    }
+  },
+  "sync\\Thumbs.db": {
+    "hash": "cf044c5c99e88b06d458c0142d9eaa12",
+    "info": {
+      "size": 8192,
+      "mtime": 1765214699.402
+    }
+  },
+  "sync\\\u0417\u0430\u0447\u0435\u0442\u043d\u0430\u044f_\u043a\u043d\u0438\u0436\u043a\u0430_\u211625601001\u043c.pdf": {
+    "hash": "55dddc6db519eb70ea37c52b67522d0b",
+    "info": {
+      "size": 142130,
+      "mtime": 1768631313.5788045
+    }
+  },
+  "sync\\\u041c\u0430\u0433_\u041f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u0430\u044f \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430 \u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0430-1-2\u043a\u0443\u0440\u0441_\u0417\u0430\u0447\u0435\u0442\u044b.pdf": {
+    "hash": "b447455d9901b0edb66536bff7741baf",
+    "info": {
+      "size": 1996973,
+      "mtime": 1767986986.250841
+    }
+  },
+  "sync\\\u041c\u0430\u0433_\u041f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u0430\u044f \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430 \u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0430-1-2\u043a\u0443\u0440\u0441_\u042d\u043a\u0437\u0430\u043c\u0435\u043d\u044b.pdf": {
+    "hash": "895c07ab278f8d580ea3accd0583fb62",
+    "info": {
+      "size": 609561,
+      "mtime": 1767986862.8920848
+    }
+  },
+  "sync\\\u0428\u0430\u0431\u043b\u043e\u043d \u0434\u0438\u0430\u0433\u0440\u0430\u043c\u043c\u044b \u041f\u0430\u0440\u0435\u0442\u043e.xlsx": {
+    "hash": "e9a41bd1af5fc0f70f7de0f2908db439",
+    "info": {
+      "size": 13968,
+      "mtime": 1771427440.2720642
+    }
+  },
+  "sync\\English\\Algorithm.png": {
+    "hash": "7a35ab7f11cbe454f9ccd22a2ab526e3",
+    "info": {
+      "size": 102628,
+      "mtime": 1766598970.3203862
+    }
+  },
+  "sync\\English\\Rendering an article until 1.png": {
+    "hash": "569ead5b9bd954772332dc9f7a8adcf5",
+    "info": {
+      "size": 112856,
+      "mtime": 1766598762.7481017
+    }
+  },
+  "sync\\English\\Rendering an article until 2.png": {
+    "hash": "1bd8a418d401041cb06033f0a6ec8f92",
+    "info": {
+      "size": 58632,
+      "mtime": 1766598788.52509
+    }
+  },
+  "sync\\English\\Russian Etiquette Body Language and Gestures 2.pptx": {
+    "hash": "adf0621f61d588fded5d8751bab4b333",
+    "info": {
+      "size": 10390127,
+      "mtime": 1761844860.0943563
+    }
+  },
+  "sync\\English\\Russian Etiquette Body Language and Gestures Report.docx": {
+    "hash": "07aae293fadebb40308ecaca594371ac",
+    "info": {
+      "size": 20232,
+      "mtime": 1761844495.1809912
+    }
+  },
+  "sync\\English\\Russian Etiquette Body Language and Gestures.pptx": {
+    "hash": "4e5e3a8a0503e78348c595a01e9e2fe4",
+    "info": {
+      "size": 14228311,
+      "mtime": 1761843731.8130362
+    }
+  },
+  "sync\\English\\Speech for the Presentation.docx": {
+    "hash": "e62624af9912aefdcea07800ce9f7653",
+    "info": {
+      "size": 18539,
+      "mtime": 1761677580.643061
+    }
+  },
+  "sync\\English\\Thumbs.db": {
+    "hash": "c3693815e2566dda5b06799826fcc7d8",
+    "info": {
+      "size": 51200,
+      "mtime": 1772803642.001
+    }
+  },
+  "sync\\English\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 homework 6.10.docx": {
+    "hash": "b159363b33f2b337599d5ada1ca4bd39",
+    "info": {
+      "size": 30840,
+      "mtime": 1766597741.8841488
+    }
+  },
+  "sync\\English\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 Rendering an article until 1.11.25.docx": {
+    "hash": "bc059ca6d8c2c18d1f6544ba225ca3d6",
+    "info": {
+      "size": 27856,
+      "mtime": 1766602713.522215
+    }
+  },
+  "sync\\English\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b \u0434\u043b\u044f \u0437\u0430\u0447\u0435\u0442\u0430.docx": {
+    "hash": "062b4fc1c5bee6b8a4cf46113fe564bb",
+    "info": {
+      "size": 32250,
+      "mtime": 1766654971.8680305
+    }
+  },
+  "sync\\English\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u041f\u0438\u0441\u044c\u043c\u0435\u043d\u043d\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435 \u043d\u0430 22.09.25.docx": {
+    "hash": "88ac5cc24e10552789513465a007ab2a",
+    "info": {
+      "size": 27925,
+      "mtime": 1766597710.7078092
+    }
+  },
+  "sync\\English\\\u041a\u04201_601-51\u043c_\u0411\u0430\u0434\u044b\u043a\u043e\u0432.docx": {
+    "hash": "d04e311f62cd934bd395939da405ba36",
+    "info": {
+      "size": 16819,
+      "mtime": 1766085069.0840468
+    }
+  },
+  "sync\\English\\\u043f\u0440\u043e\u0444.\u0438\u043d.\u044f\u0437.docx": {
+    "hash": "01059e951b9ea2f203307fa9f5b3bebb",
+    "info": {
+      "size": 29093,
+      "mtime": 1760983110.9885354
+    }
+  },
+  "sync\\loginom\\beginners-platform-data.zip": {
+    "hash": "68b8a55d421b26e6d2984ca75adbd7db",
+    "info": {
+      "size": 21316470,
+      "mtime": 1766243212.7130342
+    }
+  },
+  "sync\\loginom\\Loginom \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445 1 \u043f\u0435\u0440\u0435\u0441\u043a\u0430\u0437.docx": {
+    "hash": "c89ebb07455769de65e1b26d9d97a2bf",
+    "info": {
+      "size": 17397,
+      "mtime": 1763291821.0215983
+    }
+  },
+  "sync\\loginom\\Loginom \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445 2 \u043f\u0435\u0440\u0435\u0441\u043a\u0430\u0437.docx": {
+    "hash": "ddacb334b9c4bef7004e4152992d7021",
+    "info": {
+      "size": 17127,
+      "mtime": 1763291837.2701118
+    }
+  },
+  "sync\\loginom\\Loginom \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445 3 \u043f\u0435\u0440\u0435\u0441\u043a\u0430\u0437.docx": {
+    "hash": "471eb1df6968ff3cba1181cfc456e363",
+    "info": {
+      "size": 16681,
+      "mtime": 1763291863.9686275
+    }
+  },
+  "sync\\loginom\\Loginom \u041b\u04111.docx": {
+    "hash": "e974b0df1ec5eb2a975159d16198bb94",
+    "info": {
+      "size": 17452,
+      "mtime": 1766369404.6271503
+    }
+  },
+  "sync\\loginom\\\u0414\u0435\u043d\u044c 2 - \u0414\u0435\u043c\u043e \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0430.lgp": {
+    "hash": "30d0537c662b6725c15205552fd66a18",
+    "info": {
+      "size": 33619,
+      "mtime": 1759151571.674129
+    }
+  },
+  "sync\\loginom\\\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u04421.docx": {
+    "hash": "7ecbac0615c44e49c83742f9568cbbe5",
+    "info": {
+      "size": 27604,
+      "mtime": 1765220884.1918879
+    }
+  },
+  "sync\\loginom\\\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u04422.docx": {
+    "hash": "ddced99a3c2de0a82620e27a462c1bac",
+    "info": {
+      "size": 30373,
+      "mtime": 1765220878.6545253
+    }
+  },
+  "sync\\loginom\\\u0417\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432\u043e \u0441 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u043e\u0439.docx": {
+    "hash": "7b1a44b766ae626c66b24fa9daff44af",
+    "info": {
+      "size": 4397178,
+      "mtime": 1763344830.219054
+    }
+  },
+  "sync\\loginom\\\u0424\u0430\u0439\u043b\u044b \u0434\u043b\u044f \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u043f\u0440\u0438\u043c\u0435\u0440\u0430-20250929.zip": {
+    "hash": "5a92b48e30cb56361c2e86e36a6863ed",
+    "info": {
+      "size": 2991191,
+      "mtime": 1759151579.2475455
+    }
+  },
+  "sync\\loginom\\Demo Data\\Clients.lgd": {
+    "hash": "b97b0e333f765524b659820b6201724a",
+    "info": {
+      "size": 128989,
+      "mtime": 1757943874.0
+    }
+  },
+  "sync\\loginom\\Demo Data\\Products.lgd": {
+    "hash": "714ec2872af2a440d449865e30bb3a02",
+    "info": {
+      "size": 1749925,
+      "mtime": 1757943874.0
+    }
+  },
+  "sync\\loginom\\Demo Data\\Sales.lgd": {
+    "hash": "921d0ecdc46a0e576f9a75dfaa4ab0dc",
+    "info": {
+      "size": 1537083,
+      "mtime": 1757943874.0
+    }
+  },
+  "sync\\loginom\\lab1\\\u0414\u0430\u043d\u043d\u044b\u0435 \u043f\u043e \u0444\u0438\u043b\u0438\u0430\u043b\u0443 \u0422\u0417-4.lgd": {
+    "hash": "3b77e89dac4e12cb758f46e1d861f18a",
+    "info": {
+      "size": 9264839,
+      "mtime": 1702902467.427159
+    }
+  },
+  "sync\\loginom\\lab1\\\u041e\u0441\u0442\u0430\u043b\u044c\u043d\u044b\u0435 \u0444\u0438\u043b\u0438\u0430\u043b\u044b.lgd": {
+    "hash": "6e7dbdcbf104e77ffde5d5789633fd5a",
+    "info": {
+      "size": 19293762,
+      "mtime": 1702902469.9774866
+    }
+  },
+  "sync\\Python\\lab2.ipynb": {
+    "hash": "9ddd4bee0917324500bda4a0b91416cd",
+    "info": {
+      "size": 3266,
+      "mtime": 1759557943.4665778
+    }
+  },
+  "sync\\Python\\lab_example.py": {
+    "hash": "ab4ef99cf03b82170d4b87b30e489a7d",
+    "info": {
+      "size": 472,
+      "mtime": 1758807988.6446712
+    }
+  },
+  "sync\\Python\\popul.py": {
+    "hash": "6348d5b6fd7d537b7e1fbbb50c32515b",
+    "info": {
+      "size": 2012,
+      "mtime": 1758296657.102367
+    }
+  },
+  "sync\\Python\\prog0.py": {
+    "hash": "492443ae732bd464bf5ede8d5166f8c3",
+    "info": {
+      "size": 100,
+      "mtime": 1758912858.6717217
+    }
+  },
+  "sync\\Python\\prog1.py": {
+    "hash": "eadbfa2b0f962923bff665fcd793052c",
+    "info": {
+      "size": 1623,
+      "mtime": 1758952081.0191588
+    }
+  },
+  "sync\\Python\\prog2.py": {
+    "hash": "dbfa86bd8e301a094d471291ae22c5e6",
+    "info": {
+      "size": 1315,
+      "mtime": 1759511108.8746288
+    }
+  },
+  "sync\\Python\\prog3.py": {
+    "hash": "c1704efa37a3f7abf3cf2e088f9f2bb2",
+    "info": {
+      "size": 393,
+      "mtime": 1759558145.4810255
+    }
+  },
+  "sync\\Python\\ss": {
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "info": {
+      "size": 0,
+      "mtime": 1758951026.6546507
+    }
+  },
+  "sync\\Python\\test.ipynb": {
+    "hash": "0f3de84cf1cfd3ab6d8aa4e0dd5f0725",
+    "info": {
+      "size": 3439,
+      "mtime": 1758949720.1572657
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\Market-Clocks---Example-solution.xlsx": {
+    "hash": "903b12dc06562bcb0d7305860349dc0d",
+    "info": {
+      "size": 35601,
+      "mtime": 1768488828.6475916
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u0418\u041e  \u0440\u0430\u0431\u043e\u0442\u0430 1.docx": {
+    "hash": "3dce708679bb8fd1d19f44a31a746b3b",
+    "info": {
+      "size": 26050,
+      "mtime": 1768489554.4397197
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u0418\u041e\u0422\u0438\u041f 2 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420.docx": {
+    "hash": "699161a58dcc827bae8123b752798733",
+    "info": {
+      "size": 47643,
+      "mtime": 1768563307.7252808
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u0418\u041e\u0422\u0438\u041f 3 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420.docx": {
+    "hash": "f53c48f79ba53348e6ab0035e4d7491a",
+    "info": {
+      "size": 47656,
+      "mtime": 1768593816.8337445
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u0418\u041e\u0422\u0438\u041f \u041a\u0443\u0440\u0441\u043e\u0432\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 \u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420.docx": {
+    "hash": "1ed58bb58421db76be36f080eccdc5c5",
+    "info": {
+      "size": 30051,
+      "mtime": 1769172006.415013
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u043d\u0438\u0433\u04301.xlsx": {
+    "hash": "c11fd7278611a5c270d9052622f89b05",
+    "info": {
+      "size": 13768,
+      "mtime": 1769367115.957943
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u04301 (1).pdf": {
+    "hash": "75781745c17e797004f3f5a262c7a1b7",
+    "info": {
+      "size": 503514,
+      "mtime": 1767026819.7678604
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b.docx": {
+    "hash": "2bc3e0518b811d9d19717a49dfb02a1e",
+    "info": {
+      "size": 16819,
+      "mtime": 1768593804.8427782
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0435_\u043a\u0443\u0440\u0441\u043e\u0432\u043e\u0439_\u0440\u0430\u0431\u043e\u0442\u044b.docx": {
+    "hash": "e91ca19144d31f1995d8454c6ebd1d5e",
+    "info": {
+      "size": 9010,
+      "mtime": 1767026900.435547
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u0440\u0430\u0437\u043c\u044b\u0448\u043b\u0435\u043d\u0438\u044f.docx": {
+    "hash": "b7c32a4ced426b4163d58de3fab86dda",
+    "info": {
+      "size": 19534,
+      "mtime": 1769028376.4265864
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\Thumbs.db": {
+    "hash": "d17dd426d7e1b45faa1a8676d6287b26",
+    "info": {
+      "size": 51200,
+      "mtime": 1772803641.315
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u0412\u0430\u043d\u044f\u0448\u043a\u0438\u043d\u0430 \u0415\u0410 - \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043e\u043d\u0442\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u0438 \u043c\u043e\u0434\u0443\u043b\u044f \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438 \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0430 \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0418\u0421 \u00ab\u0423\u0447\u0435\u0442 \u041f\u0418\u0420\u00bb \u0441 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u043e\u0439 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u043e\u0432.docx": {
+    "hash": "fdf0e3b29298fb0d45ab91b783785498",
+    "info": {
+      "size": 133541,
+      "mtime": 1768985810.304693
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u0413\u043e\u0440\u0434\u0435\u0435\u0432+\u0437\u0430\u0449\u0438\u0442\u0430_\u043a\u0443\u0440\u0441\u043e\u0432\u043e\u0439.pptx": {
+    "hash": "7a54e39a857ea836d1ae7ac205a2b332",
+    "info": {
+      "size": 665734,
+      "mtime": 1766497660.581686
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u0413\u043e\u0440\u0434\u0435\u0435\u0432+\u041a\u0443\u0440\u0441\u043e\u0432\u0430\u044f(\u0444\u0438\u043d\u0430\u043b).docx": {
+    "hash": "2cc5437c3ba0d83e841ef8baa6bac6d8",
+    "info": {
+      "size": 417049,
+      "mtime": 1766497667.1185477
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u0417\u043e\u043b\u043e\u0442\u043e\u0432\u0435\u0440\u0445\u0430\u044f+\u043a\u0443\u0440\u0441\u043e\u0432\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430.docx": {
+    "hash": "9946da9716af01f968a1498ca83cfea2",
+    "info": {
+      "size": 1641354,
+      "mtime": 1766500142.992273
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u041a\u0443\u0437\u044c\u043c\u0438\u043d\u0418\u0415+(wecompress.com).pptx": {
+    "hash": "ef099b8e9f57cc7e74b8b423922d4741",
+    "info": {
+      "size": 1078569,
+      "mtime": 1768496300.37714
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u041a\u0443\u0437\u044c\u043c\u0438\u043d\u0418\u0415+\u041a\u0443\u0440\u0441\u043e\u0432\u0430\u044f.docx": {
+    "hash": "0b41de2e8b26b1cc966b4b5406cf2f16",
+    "info": {
+      "size": 402180,
+      "mtime": 1766499884.161201
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u041a\u0443\u0440\u0441\u043e\u0432\u0430\u044f \u041a\u0430\u043c\u0430\u043b\u044f\u043d.docx": {
+    "hash": "9935083398306254b7073ef5b8064485",
+    "info": {
+      "size": 357869,
+      "mtime": 1768496204.249369
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u041a\u0443\u0440\u0441\u043e\u0432\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u04301 \u041d\u043e\u0432\u043e\u0445\u0430\u0442\u044c\u043a\u043e \u0417.\u0412.docx": {
+    "hash": "6eb3ae671ddfce6ea31232d07a8054cb",
+    "info": {
+      "size": 441214,
+      "mtime": 1768495631.913781
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u041a\u0443\u0440\u0441\u043e\u0432\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430_\u0411\u0435\u0440\u043a\u0443\u0442\u043e\u0432\u0430 \u041e\u0421.pdf": {
+    "hash": "47cf9b148a998400d0a94099230c1ac2",
+    "info": {
+      "size": 166466,
+      "mtime": 1768985794.1687555
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u041a\u0443\u0440\u0441\u043e\u0432\u0430\u044f. \u0424\u0435\u0434\u0447\u0435\u043d\u043a\u043e.docx": {
+    "hash": "550cea8a8d9d783a7c2452e0cd922867",
+    "info": {
+      "size": 64167,
+      "mtime": 1768985781.3309767
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u041a\u0443\u0440\u0441\u043e\u0432\u0430\u044f_\u041a\u0438\u0440\u0438\u043b\u0435\u043d\u043a\u043e.pdf": {
+    "hash": "d2c25d2bea3985341a45f85210d1d3ea",
+    "info": {
+      "size": 308117,
+      "mtime": 1768495505.539928
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u041a\u0443\u0440\u0441\u043e\u0432\u0430\u044f_\u0421\u0442\u0435\u0431\u0430\u043a\u043e\u0432\u0430.docx": {
+    "hash": "c77ce7c30cf634915b7694dfc45edaef",
+    "info": {
+      "size": 136922,
+      "mtime": 1768985804.3599458
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u041d\u0430\u0441\u0438\u0431\u0443\u043b\u043b\u0438\u043d\u0422\u0420_\u041a\u0443\u0440\u0441\u043e\u0432\u0430\u044f_\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u044f\u0427\u0435\u0440\u043d\u043e\u0432\u0438\u043a\u0421\u0436\u0430\u0442\u044b\u0439.pptx": {
+    "hash": "6f60ae42f188f6fa1fdbd9e2656e3892",
+    "info": {
+      "size": 742916,
+      "mtime": 1768564655.5752468
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u041d\u0430\u0441\u0438\u0431\u0443\u043b\u043b\u0438\u043d\u0422\u0420_\u041a\u0443\u0440\u0441\u043e\u0432\u0430\u044f_\u0427\u0435\u0440\u043d\u043e\u0432\u0438\u043a.docx": {
+    "hash": "14e32d01f4d7d38bdfbe14006f3b3792",
+    "info": {
+      "size": 29924,
+      "mtime": 1768495958.8725893
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u041d\u0430\u0441\u0438\u0431\u0443\u043b\u043b\u0438\u043d\u0422\u0420_\u041a\u0443\u0440\u0441\u043e\u0432\u0430\u044f_\u0427\u0435\u0440\u043d\u043e\u0432\u0438\u043a\u21162.docx": {
+    "hash": "5cb8a2139954f089dd9b6a803062e346",
+    "info": {
+      "size": 119844,
+      "mtime": 1768564648.5220137
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u041d\u043e\u0432\u0438\u043a\u043e\u0432+\u0420\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u0432\u0430\u0439\u0431 \u043a\u043e\u0434\u0438\u043d\u0433\u0430 \u0432 \u0441\u0440\u0435\u0434\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 GIGA IDE \u2014 \u043a\u043e\u043f\u0438\u044f.pptx": {
+    "hash": "994bab8ff9b9bea9cd609d0a3f8b833a",
+    "info": {
+      "size": 2001345,
+      "mtime": 1766501382.0450945
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u041d\u043e\u0432\u0438\u043a\u043e\u0432+\u0420\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u0432\u0430\u0439\u0431 \u043a\u043e\u0434\u0438\u043d\u0433\u0430 \u0432 \u0441\u0440\u0435\u0434\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 GIGA IDE.docx": {
+    "hash": "ea18fd2caefe91f5019fa1ec0a8e5a2a",
+    "info": {
+      "size": 231672,
+      "mtime": 1766501374.535412
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u0420\u0430\u0441\u0441\u0430\u0434\u0438\u043d\u0410\u0410+\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f.PPTX": {
+    "hash": "545450418accdf32d095df96ddc761fb",
+    "info": {
+      "size": 1882655,
+      "mtime": 1766502082.5129843
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041a\u0443\u0440\u0441\u043e\u0432\u044b\u0435\\\u0420\u0430\u0441\u0441\u0430\u0434\u0438\u043d\u0410\u0410+\u041a\u0443\u0440\u0441\u043e\u0432\u0430\u044f.docx": {
+    "hash": "321a3a6f98b81e90b8ea8ba9e564d6b1",
+    "info": {
+      "size": 1721393,
+      "mtime": 1766502066.2668107
+    }
+  },
+  "sync\\\u0413\u0438\u043c\u0440\u0430\u043d\u043e\u0432\\\u041b\u0435\u043a\u0446\u0438\u0438\\\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u041b2_2 2024.pdf": {
+    "hash": "185ddbeccb20ca14ea5900b475f63512",
+    "info": {
+      "size": 1627482,
+      "mtime": 1768552178.7420845
+    }
+  },
+  "sync\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\\Thumbs.db": {
+    "hash": "252ac6f8f9b101f4dbac8fc9c8ff03ae",
+    "info": {
+      "size": 17920,
+      "mtime": 1772803641.486
+    }
+  },
+  "sync\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u0414\u0438\u0441\u0441\u0438\u043f\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b.docx": {
+    "hash": "a46a3d74b0a7ae8aee0b2cfddde467a4",
+    "info": {
+      "size": 43700,
+      "mtime": 1768916205.4769728
+    }
+  },
+  "sync\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u0414\u0438\u0441\u0441\u0438\u043f\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b.pptx": {
+    "hash": "22e7b78d84f6f23f84717d80a925228a",
+    "info": {
+      "size": 217419,
+      "mtime": 1768914081.1887803
+    }
+  },
+  "sync\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420_\u043c\u0430\u0442.\u043c\u043e\u0434\u0435\u043b.\u0440\u0435\u0444\u0435\u0440\u0430\u0442.docx": {
+    "hash": "109a76b38a338d1bbfb6fa4c682de6b2",
+    "info": {
+      "size": 51329,
+      "mtime": 1768824803.630594
+    }
+  },
+  "sync\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\\\u0414\u0438\u0441\u0441\u0438\u043f\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b 3.docx": {
+    "hash": "6d77c374ab2a674c792b3d8b019584db",
+    "info": {
+      "size": 29549,
+      "mtime": 1765220859.6960137
+    }
+  },
+  "sync\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\\\u0414\u0438\u0441\u0441\u0438\u043f\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b 4.docx": {
+    "hash": "c1c5ee9a27fd48550c8d7158c46a6e21",
+    "info": {
+      "size": 32600,
+      "mtime": 1765220904.571224
+    }
+  },
+  "sync\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430 2.docx": {
+    "hash": "cd4d1fb35e8856cc18ac91050a07b545",
+    "info": {
+      "size": 42786,
+      "mtime": 1768727715.182935
+    }
+  },
+  "sync\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430.docx": {
+    "hash": "05a1dd3cee9671badf52f7d7e486aa43",
+    "info": {
+      "size": 42460,
+      "mtime": 1768727353.2504046
+    }
+  },
+  "sync\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435.pptx": {
+    "hash": "0a519a3083d94ae3b94a586916e9b01c",
+    "info": {
+      "size": 67300,
+      "mtime": 1765220847.5109098
+    }
+  },
+  "sync\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\\\u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b \u0434\u043b\u044f \u044d\u0441\u0441\u0435.docx": {
+    "hash": "96cb2df24452df29701d1348c8fcdd52",
+    "info": {
+      "size": 303146,
+      "mtime": 1768669985.3133707
+    }
+  },
+  "sync\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\\\u0420\u0435\u0444\u0435\u0440\u0430\u0442.docx": {
+    "hash": "31c18f0aabc1c1342597615450cc04f9",
+    "info": {
+      "size": 56644,
+      "mtime": 1768776026.3800704
+    }
+  },
+  "sync\\\u041c\u0435\u0442\u043e\u0434\u041d\u0430\u0443\u043a\u0438\\create_referat.py": {
+    "hash": "902e068b8bafb94ffc84bf3de386f65f",
+    "info": {
+      "size": 11983,
+      "mtime": 1766157613.6139262
+    }
+  },
+  "sync\\\u041c\u0435\u0442\u043e\u0434\u041d\u0430\u0443\u043a\u0438\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u041c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u043d\u0430\u0443\u043a\u0438.docx": {
+    "hash": "25f2d5f4cd798b3db51668e9cf56253a",
+    "info": {
+      "size": 26795,
+      "mtime": 1766204594.7195535
+    }
+  },
+  "sync\\\u041c\u0435\u0442\u043e\u0434\u041d\u0430\u0443\u043a\u0438\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u041c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u043d\u0430\u0443\u043a\u0438.pdf": {
+    "hash": "569b78d124ebf3218e13d5d4ce4265c3",
+    "info": {
+      "size": 187659,
+      "mtime": 1766204580.0716808
+    }
+  },
+  "sync\\\u041c\u0435\u0442\u043e\u0434\u041d\u0430\u0443\u043a\u0438\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u041d\u0430\u0443\u043a\u0430 \u0438 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e.docx": {
+    "hash": "810339a1decec8691df22bdb3c6dcd32",
+    "info": {
+      "size": 28867,
+      "mtime": 1766340952.4880958
+    }
+  },
+  "sync\\\u041c\u0435\u0442\u043e\u0434\u041d\u0430\u0443\u043a\u0438\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u041d\u0430\u0443\u043a\u0430 \u0438 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e.pdf": {
+    "hash": "63f593de26b9d73f3871e072cde07fe3",
+    "info": {
+      "size": 188708,
+      "mtime": 1766340944.2580464
+    }
+  },
+  "sync\\\u041c\u0435\u0442\u043e\u0434\u041d\u0430\u0443\u043a\u0438\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u041d\u0430\u0443\u0447\u043d\u044b\u0435 \u0434\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u044f \u0444\u0438\u0437\u0438\u043a\u0438, \u0445\u0438\u043c\u0438\u0438, \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0438, \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0438\u0438 \u043a. \u0425I\u0425 \u2013 \u043d. \u0425\u0425 \u0432\u0432. \u0418\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u043a\u043e\u0441\u043c\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0439. \u0422\u0435\u043e\u0440\u0438\u044f \u0440\u0430\u0441\u0448\u0438\u0440\u044f\u044e\u0449\u0435\u0439\u0441\u044f \u0412\u0441\u0435\u043b\u0435\u043d\u043d\u043e\u0439..docx": {
+    "hash": "254a3f9bdba4c4302ac1305ee726395b",
+    "info": {
+      "size": 30649,
+      "mtime": 1766341033.6796818
+    }
+  },
+  "sync\\\u041c\u0435\u0442\u043e\u0434\u041d\u0430\u0443\u043a\u0438\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u041d\u0430\u0443\u0447\u043d\u044b\u0435 \u0434\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u044f \u0444\u0438\u0437\u0438\u043a\u0438, \u0445\u0438\u043c\u0438\u0438, \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0438, \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0438\u0438 \u043a. \u0425I\u0425 \u2013 \u043d. \u0425\u0425 \u0432\u0432. \u0418\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u043a\u043e\u0441\u043c\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0439. \u0422\u0435\u043e\u0440\u0438\u044f \u0440\u0430\u0441\u0448\u0438\u0440\u044f\u044e\u0449\u0435\u0439\u0441\u044f \u0412\u0441\u0435\u043b\u0435\u043d\u043d\u043e\u0439..pdf": {
+    "hash": "027fee8d816e749a6616f012ab4db38b",
+    "info": {
+      "size": 202969,
+      "mtime": 1766341027.9426775
+    }
+  },
+  "sync\\\u041c\u0435\u0442\u043e\u0434\u041d\u0430\u0443\u043a\u0438\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u041f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435 1 \u043a \u0442\u0435\u043c\u0435 2.docx": {
+    "hash": "9c17c4a2727f3d36a164edaa38007ebf",
+    "info": {
+      "size": 18143,
+      "mtime": 1766200222.1531017
+    }
+  },
+  "sync\\\u041c\u0435\u0442\u043e\u0434\u041d\u0430\u0443\u043a\u0438\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u041f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435 1 \u043a \u0442\u0435\u043c\u0435 2.pdf": {
+    "hash": "203a0140103e9d787d5848c9b9d60735",
+    "info": {
+      "size": 127663,
+      "mtime": 1766200541.5426252
+    }
+  },
+  "sync\\\u041c\u0435\u0442\u043e\u0434\u041d\u0430\u0443\u043a\u0438\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u0421\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430 \u043d\u0430\u0443\u0447\u043d\u043e\u0433\u043e \u0437\u043d\u0430\u043d\u0438\u044f \u044d\u043f\u043e\u0445\u0438 \u0412\u043e\u0437\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f.docx": {
+    "hash": "7e988071e8561987d7889544b81f6eb2",
+    "info": {
+      "size": 28486,
+      "mtime": 1766204532.6636174
+    }
+  },
+  "sync\\\u041c\u0435\u0442\u043e\u0434\u041d\u0430\u0443\u043a\u0438\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u0421\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430 \u043d\u0430\u0443\u0447\u043d\u043e\u0433\u043e \u0437\u043d\u0430\u043d\u0438\u044f \u044d\u043f\u043e\u0445\u0438 \u0412\u043e\u0437\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u044f.pdf": {
+    "hash": "6b08fbc5b03b3126359698bd7219f32d",
+    "info": {
+      "size": 198749,
+      "mtime": 1766204528.1816776
+    }
+  },
+  "sync\\\u041c\u0435\u0442\u043e\u0434\u041d\u0430\u0443\u043a\u0438\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u0421\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u043d\u0430\u0443\u043a \u0432 XVII-XVIII \u0432\u0432. \u0438 \u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0434\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u044f..docx": {
+    "hash": "fdf7b92e68c6acf9ac9cfbe452d9245e",
+    "info": {
+      "size": 30062,
+      "mtime": 1766369344.1996956
+    }
+  },
+  "sync\\\u041c\u0435\u0442\u043e\u0434\u041d\u0430\u0443\u043a\u0438\\\u0411\u0430\u0434\u044b\u043a\u043e\u0432\u0414\u0420 \u0421\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u043d\u0430\u0443\u043a \u0432 XVII-XVIII \u0432\u0432. \u0438 \u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0434\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u044f.pdf": {
+    "hash": "3421924356c7b005f20458e31d8b34f5",
+    "info": {
+      "size": 223720,
+      "mtime": 1766369340.8266757
+    }
+  },
+  "sync\\\u041e\u0441\u043d\u043e\u0432\u044b \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0424\u041c\u041d\\Thumbs.db": {
+    "hash": "8e37d4b66c81cd5885929cb9e325f605",
+    "info": {
+      "size": 8192,
+      "mtime": 1772803641.677
+    }
+  },
+  "sync\\\u041e\u0441\u043d\u043e\u0432\u044b \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0424\u041c\u041d\\\u0420\u0435\u0444\u0435\u0440\u0430\u0442_17\u0432.docx": {
+    "hash": "b1ebc99e7c8f9c6efc490bea919b0a3b",
+    "info": {
+      "size": 30167,
+      "mtime": 1761482036.2172863
+    }
+  },
+  "sync\\\u041e\u0441\u043d\u043e\u0432\u044b \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0424\u041c\u041d\\\u0421\u0435\u043c\u0451\u043d\u043e\u0432 \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447 (\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u044f).pptx": {
+    "hash": "05fb90eda9f5baea0b103e082e33c405",
+    "info": {
+      "size": 10774605,
+      "mtime": 1765214669.9671917
+    }
+  },
+  "sync\\\u041e\u0441\u043d\u043e\u0432\u044b \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0424\u041c\u041d\\\u0421\u0435\u043c\u0451\u043d\u043e\u0432 \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447 (\u0420\u0435\u0444\u0435\u0440\u0430\u0442).docx": {
+    "hash": "6198d3b23bd8627404129f880442f8d0",
+    "info": {
+      "size": 2094241,
+      "mtime": 1765214596.603156
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\COBIT.docx": {
+    "hash": "94169476d34a45ffe2b7a2f9afe877ad",
+    "info": {
+      "size": 30612,
+      "mtime": 1764177175.2078078
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u0410\u043d\u043a\u0435\u0442\u0430 1 \u0434\u043b\u044f \u041b\u0420\u21164.docx": {
+    "hash": "803ab31fd839c7c5999691a3da65fbde",
+    "info": {
+      "size": 36446,
+      "mtime": 1768338715.1480737
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u0410\u043d\u043a\u0435\u0442\u0430 2 \u0434\u043b\u044f \u041b\u0420\u21164.docx": {
+    "hash": "9a9e818d107f47d49a1331bf79f574bf",
+    "info": {
+      "size": 35701,
+      "mtime": 1768320105.2537248
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u0410\u043d\u043a\u0435\u0442\u0430 3 \u0434\u043b\u044f \u041b\u0420\u21164.docx": {
+    "hash": "cf25883f70cf09448e724f3b7e671afe",
+    "info": {
+      "size": 35235,
+      "mtime": 1768320131.7123213
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u0410\u043d\u043a\u0435\u0442\u044b \u0434\u043b\u044f \u041b\u0420\u21164.docx": {
+    "hash": "2ab512ee49593cfa9b8d0cbb126c389d",
+    "info": {
+      "size": 68570,
+      "mtime": 1768396254.2856462
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b.xlsx": {
+    "hash": "72de506a3ef0b6474c1a4604d4be5be8",
+    "info": {
+      "size": 11926,
+      "mtime": 1761072595.1096864
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u04421.docx": {
+    "hash": "e59d9602b3dc557138fe528b47cc2f98",
+    "info": {
+      "size": 30896,
+      "mtime": 1768391495.7992756
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u041b\u0420 4 \u0420\u0430\u0441\u0447\u0435\u0442\u044b.xlsx": {
+    "hash": "29fa23794983458b562581048844da1a",
+    "info": {
+      "size": 48178,
+      "mtime": 1768385270.5262508
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u043f\u0438\u0441\u044c\u043c\u043e.docx": {
+    "hash": "802619c270847919a76fac446001fcef",
+    "info": {
+      "size": 14823,
+      "mtime": 1773163600.8489861
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u044b.pdf": {
+    "hash": "09d1148197f16936cce7324ca7c9c2c2",
+    "info": {
+      "size": 571770,
+      "mtime": 1768417915.000861
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u044b.pptx": {
+    "hash": "e84e98e57a0fe5cc5a3dc0844d10ce09",
+    "info": {
+      "size": 756029,
+      "mtime": 1768417875.1084569
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u044b_old.pdf": {
+    "hash": "0651b525aa2e4ad25e9c7e878d95927d",
+    "info": {
+      "size": 614929,
+      "mtime": 1764163923.0949674
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u0423\u041f\u0420 1 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f \u0437\u0430\u0434\u0430\u043d\u0438\u0435.docx": {
+    "hash": "6d17149b4c40000333e524449e70fa2e",
+    "info": {
+      "size": 954671,
+      "mtime": 1768248982.1956694
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u0423\u041f\u0420 1 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f.docx": {
+    "hash": "ec8c1be1b7708b041bb833e74aba76c6",
+    "info": {
+      "size": 167077,
+      "mtime": 1768395815.9898827
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u0423\u041f\u0420 2 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f.docx": {
+    "hash": "78b8b06a4c1ae34e027f4a91bd2caef5",
+    "info": {
+      "size": 38498,
+      "mtime": 1768388659.7028837
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u0423\u041f\u0420 3 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f KPI.docx": {
+    "hash": "1ae8644d21c3cc9125293173ddcf5251",
+    "info": {
+      "size": 36852,
+      "mtime": 1768395871.294137
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u0423\u041f\u0420 4 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u0430\u044f.docx": {
+    "hash": "5f9050cf2c9d56f0fc265089b8dc3a89",
+    "info": {
+      "size": 79290,
+      "mtime": 1768395986.3796237
+    }
+  },
+  "sync\\\u0423\u041f\u0420\\\u0423\u041f\u0420 COBIT 5.docx": {
+    "hash": "cf80111526fc516a55901115a7cd330c",
+    "info": {
+      "size": 37428,
+      "mtime": 1768418439.9791203
+    }
+  },
+  "videos\\2025-10-16 18-03-39.mkv": {
+    "hash": "4b56d47269d8fe5ea8ed5003d4c6108d",
+    "info": {
+      "size": 294162638,
+      "mtime": 1760624617.9896846
+    }
+  },
+  "videos\\2025-10-16 19-32-24.mkv": {
+    "hash": "da94accc0253eaab0aaafc418b7d95b7",
+    "info": {
+      "size": 329489650,
+      "mtime": 1760629671.528049
+    }
+  },
+  "videos\\2025-10-17 18-02-49.mkv": {
+    "hash": "5c4fc5790704bfdcbf0a46ea5b99f070",
+    "info": {
+      "size": 755268005,
+      "mtime": 1760710918.1931515
+    }
+  },
+  "videos\\2025-10-17 19-28-31.mkv": {
+    "hash": "8abf84eb9fe36f4bd4c4c7c2bfb1cd0e",
+    "info": {
+      "size": 468726698,
+      "mtime": 1760716094.4251387
+    }
+  },
+  "videos\\2025-10-17 20-48-28.mkv": {
+    "hash": "101c341831bc9e57974d6bfe6791aeb5",
+    "info": {
+      "size": 927567,
+      "mtime": 1760716119.5913086
+    }
+  },
+  "videos\\2025-10-20 18-03-52.mkv": {
+    "hash": "514d2798a17d895d5d98b366bdfbe734",
+    "info": {
+      "size": 456558553,
+      "mtime": 1760969988.5748954
+    }
+  },
+  "videos\\2025-10-20 19-31-55.mkv": {
+    "hash": "d2d760050910739dd1b00ffb9976e6ac",
+    "info": {
+      "size": 350586858,
+      "mtime": 1760975309.237692
+    }
+  },
+  "videos\\2025-10-21 19-03-05.mkv": {
+    "hash": "734d6dc3ab597388617287138f014adb",
+    "info": {
+      "size": 28013049,
+      "mtime": 1761055727.1923397
+    }
+  },
+  "videos\\2025-10-21 19-12-42.mkv": {
+    "hash": "cd662e8860e16ee08188addf4fb3f4c3",
+    "info": {
+      "size": 318560547,
+      "mtime": 1761059459.6874504
+    }
+  },
+  "videos\\2025-10-23 19-31-34.mkv": {
+    "hash": "e3f8b233ae5d4a197014d4861ef1d012",
+    "info": {
+      "size": 427732297,
+      "mtime": 1761234513.3947306
+    }
+  },
+  "videos\\2025-10-24 18-10-52.mkv": {
+    "hash": "561e465a7d98f00b234a3634360a017d",
+    "info": {
+      "size": 508339963,
+      "mtime": 1761315691.2987077
+    }
+  },
+  "videos\\2025-10-24 19-22-11.mkv": {
+    "hash": "68aebccc10a5b5e0711d160df2bf62c9",
+    "info": {
+      "size": 44791168,
+      "mtime": 1761316394.6012685
+    }
+  },
+  "videos\\2025-10-24 19-33-22.mkv": {
+    "hash": "de703d5d52a4346b62987600b58e8bd3",
+    "info": {
+      "size": 7367745,
+      "mtime": 1761316511.7019281
+    }
+  },
+  "videos\\2025-10-24 19-35-15.mkv": {
+    "hash": "477436f5681f13d50dc6a2ecc8202640",
+    "info": {
+      "size": 8186950,
+      "mtime": 1761316629.4049554
+    }
+  },
+  "videos\\2025-10-24 19-37-09.mkv": {
+    "hash": "46aa276a686e7cce30444580736fa331",
+    "info": {
+      "size": 369824914,
+      "mtime": 1761321115.2642634
+    }
+  },
+  "videos\\2025-10-27 18-05-44.mkv": {
+    "hash": "7dbb60f52d205cdbeb2268c1a1f74958",
+    "info": {
+      "size": 512930403,
+      "mtime": 1761575143.780136
+    }
+  },
+  "videos\\2025-10-27 19-34-01.mkv": {
+    "hash": "d7c47e08cd800efbdce7da24f34144c5",
+    "info": {
+      "size": 35771998,
+      "mtime": 1761576119.0755181
+    }
+  },
+  "videos\\2025-10-27 19-59-05.mkv": {
+    "hash": "4ff6e8f5c4743b6cda593f7721cf611e",
+    "info": {
+      "size": 241263505,
+      "mtime": 1761588431.625518
+    }
+  },
+  "videos\\2025-10-29 18-18-22.mkv": {
+    "hash": "f29f83674b905c586a5c2ed18c9b315d",
+    "info": {
+      "size": 689514016,
+      "mtime": 1761751946.7117233
+    }
+  },
+  "videos\\2025-10-30 18-00-01.mkv": {
+    "hash": "3d801de2f17242e5b6ea9c6ba7d59d92",
+    "info": {
+      "size": 5096978,
+      "mtime": 1761829280.9877741
+    }
+  },
+  "videos\\2025-10-30 18-03-30.mkv": {
+    "hash": "1a7ea1db40e99a06ee3504b22c1f8b0e",
+    "info": {
+      "size": 416585136,
+      "mtime": 1761833994.149074
+    }
+  },
+  "videos\\2025-10-31 18-05-58.mkv": {
+    "hash": "57adbb88343a05200bfe71b5d80a6ddd",
+    "info": {
+      "size": 335651757,
+      "mtime": 1761919110.18597
+    }
+  },
+  "videos\\2025-10-31 19-08-08.mkv": {
+    "hash": "89f9b1b48e48ae372a61c1d6a15bccd1",
+    "info": {
+      "size": 20312457,
+      "mtime": 1761920005.7647943
+    }
+  },
+  "videos\\2025-10-31 19-16-05.mkv": {
+    "hash": "57cb3c1143c7d59eef47a1cdd8e8ceb7",
+    "info": {
+      "size": 105570730,
+      "mtime": 1761921241.4991734
+    }
+  },
+  "videos\\2025-11-05 18-34-56.mkv": {
+    "hash": "23abcf7814742813b5a8aa1f9a4aad48",
+    "info": {
+      "size": 1354585192,
+      "mtime": 1762359638.2270594
+    }
+  },
+  "videos\\2025-11-06 19-32-28.mkv": {
+    "hash": "711c6fb5250d0af11660656d2bd130c2",
+    "info": {
+      "size": 382025,
+      "mtime": 1762439556.1354294
+    }
+  },
+  "videos\\2025-11-06 19-32-37.mkv": {
+    "hash": "749581beb1f6e2a9ee2f1152fec27e8d",
+    "info": {
+      "size": 427434210,
+      "mtime": 1762444064.788281
+    }
+  },
+  "videos\\2025-11-07 18-01-33.mkv": {
+    "hash": "18163883329e737cc413f19eab3b3d3b",
+    "info": {
+      "size": 461613172,
+      "mtime": 1762525625.07187
+    }
+  },
+  "videos\\2025-11-07 19-29-19.mkv": {
+    "hash": "a2c9740a6c8e649c1b5ab077af8b991f",
+    "info": {
+      "size": 17694040,
+      "mtime": 1762526041.4823453
+    }
+  },
+  "videos\\2025-11-07 19-34-02.mkv": {
+    "hash": "d9f3b181a9c31255597b89ca4d2cd100",
+    "info": {
+      "size": 4910393,
+      "mtime": 1762526115.6097605
+    }
+  },
+  "videos\\2025-11-07 19-35-16.mkv": {
+    "hash": "c548c11623298b3089e6bcf165d68685",
+    "info": {
+      "size": 364663352,
+      "mtime": 1762529449.1301286
+    }
+  },
+  "videos\\2025-11-10 18-01-41.mkv": {
+    "hash": "cd7f9fd61e258de92ae911dec626fbb8",
+    "info": {
+      "size": 533778744,
+      "mtime": 1762784885.169169
+    }
+  },
+  "videos\\2025-11-10 19-29-34.mkv": {
+    "hash": "96692e5ecce126377f9d68c752fdf1ea",
+    "info": {
+      "size": 107063965,
+      "mtime": 1762786402.1097937
+    }
+  },
+  "videos\\2025-11-10 19-53-22.mkv": {
+    "hash": "1863d3a2a7d75e5641265a1580524c3e",
+    "info": {
+      "size": 403632386,
+      "mtime": 1762791364.338416
+    }
+  },
+  "videos\\2025-11-11 18-44-36.mkv": {
+    "hash": "13ee5c24a3240a31f556a33afc11dc3e",
+    "info": {
+      "size": 247854320,
+      "mtime": 1762871489.9653754
+    }
+  },
+  "videos\\2025-11-12 18-21-16.mkv": {
+    "hash": "e7004631a70f5bda18f8fa8eecde6411",
+    "info": {
+      "size": 815181100,
+      "mtime": 1762972068.8680265
+    }
+  },
+  "videos\\2025-11-13 18-16-49.mkv": {
+    "hash": "ab0c088dc1365de869ae60706728da5c",
+    "info": {
+      "size": 428302944,
+      "mtime": 1763043707.2519953
+    }
+  },
+  "videos\\2025-11-13 19-29-52.mkv": {
+    "hash": "48302a7946293f947a6f588b65350d3f",
+    "info": {
+      "size": 416266947,
+      "mtime": 1763048833.5333464
+    }
+  },
+  "videos\\2025-11-14 18-04-06.mkv": {
+    "hash": "c70408d4ada00d45917f81135647c507",
+    "info": {
+      "size": 490522743,
+      "mtime": 1763130104.9360545
+    }
+  },
+  "videos\\2025-11-14 19-41-21.mkv": {
+    "hash": "85c763c03b37949b178998c0ac40b634",
+    "info": {
+      "size": 358261524,
+      "mtime": 1763134704.2296743
+    }
+  },
+  "videos\\2025-11-15 10-01-35.mkv": {
+    "hash": "50e65f59e7afe6cea977393ea2cf840d",
+    "info": {
+      "size": 291764926,
+      "mtime": 1763186841.7071495
+    }
+  },
+  "videos\\2025-11-17 18-00-24.mkv": {
+    "hash": "5026930699591d6418c96192085d4d0a",
+    "info": {
+      "size": 517255795,
+      "mtime": 1763389790.1389918
+    }
+  },
+  "videos\\2025-11-17 19-30-34.mkv": {
+    "hash": "96e10f5daa311e5f067cda7444576e5c",
+    "info": {
+      "size": 403057313,
+      "mtime": 1763394876.2355747
+    }
+  },
+  "videos\\2025-11-18 18-35-40.mkv": {
+    "hash": "15b792323138dd751ff77914489228eb",
+    "info": {
+      "size": 217482097,
+      "mtime": 1763478937.524881
+    }
+  },
+  "videos\\2025-11-20 18-01-26.mkv": {
+    "hash": "4ce47e89b9c94bb19762d1fbc399f95d",
+    "info": {
+      "size": 92852644,
+      "mtime": 1763644712.467391
+    }
+  },
+  "videos\\2025-11-20 19-34-08.mkv": {
+    "hash": "2cef30a312f47c579e01b724ac2597e0",
+    "info": {
+      "size": 409259384,
+      "mtime": 1763653729.7997618
+    }
+  },
+  "videos\\2025-11-22 08-32-21.mkv": {
+    "hash": "adcaa0c14995db683cc4bd6554d8335b",
+    "info": {
+      "size": 348834897,
+      "mtime": 1763786069.636347
+    }
+  },
+  "videos\\2025-11-22 10-03-23.mkv": {
+    "hash": "93431ae36cda1961a25f3a5a8e1cbac3",
+    "info": {
+      "size": 320018917,
+      "mtime": 1763791673.8505685
+    }
+  },
+  "videos\\2025-11-22 11-44-01.mkv": {
+    "hash": "d72aca259a87d0873703013f0351d77d",
+    "info": {
+      "size": 256622266,
+      "mtime": 1763797893.165909
+    }
+  },
+  "videos\\2025-11-24 18-05-07.mkv": {
+    "hash": "6a6a5c56935ff618770c0cb46c04fab0",
+    "info": {
+      "size": 418105556,
+      "mtime": 1763993508.678564
+    }
+  },
+  "videos\\2025-11-24 19-59-01.mkv": {
+    "hash": "47348f1e1a030d4022431f2f33d5268e",
+    "info": {
+      "size": 451967341,
+      "mtime": 1764001753.4986732
+    }
+  },
+  "videos\\2025-11-26 18-20-01.mkv": {
+    "hash": "1b86b0e56e5fd6bd8b67169d35dcb6ad",
+    "info": {
+      "size": 552224273,
+      "mtime": 1764170613.9494555
+    }
+  },
+  "videos\\2025-11-27 18-12-34.mkv": {
+    "hash": "a0fb64aaf0a73950b24aa3d595182f61",
+    "info": {
+      "size": 423027619,
+      "mtime": 1764253333.4398496
+    }
+  },
+  "videos\\2025-11-27 19-22-46.mkv": {
+    "hash": "42ea60be0a56b620e8e2fe68c1c7ac84",
+    "info": {
+      "size": 33292310,
+      "mtime": 1764253796.7081716
+    }
+  },
+  "videos\\2025-11-27 19-29-57.mkv": {
+    "hash": "1d95c5fa3391423e5e82f5877e64ff1d",
+    "info": {
+      "size": 434520024,
+      "mtime": 1764258465.9533837
+    }
+  },
+  "videos\\2025-11-28 18-03-25.mkv": {
+    "hash": "bdd6996158dfb965fac34850c19381b7",
+    "info": {
+      "size": 448572127,
+      "mtime": 1764339268.7615838
+    }
+  },
+  "videos\\2025-11-28 19-32-09.mkv": {
+    "hash": "ab70ab5a0d6eaaad7f199732eb3c7066",
+    "info": {
+      "size": 6191599,
+      "mtime": 1764340427.623525
+    }
+  },
+  "videos\\2025-11-28 19-37-55.mkv": {
+    "hash": "9f7d6612b7f062b77926dcf2a383f629",
+    "info": {
+      "size": 270364754,
+      "mtime": 1764343279.4084096
+    }
+  },
+  "videos\\2025-11-29 08-37-47.mkv": {
+    "hash": "08e81412a8da1b465aabdc1e3389f55f",
+    "info": {
+      "size": 437791226,
+      "mtime": 1764391938.4571793
+    }
+  },
+  "videos\\2025-11-29 10-01-38.mkv": {
+    "hash": "fb35c38f6fe7925d7d8473f0f9f17783",
+    "info": {
+      "size": 261545679,
+      "mtime": 1764395670.488964
+    }
+  },
+  "videos\\2025-12-01 18-03-16.mkv": {
+    "hash": "7bf95e9e5cabb37aa025771814e7f821",
+    "info": {
+      "size": 528714064,
+      "mtime": 1764598890.1720152
+    }
+  },
+  "videos\\2025-12-01 19-28-50.mkv": {
+    "hash": "c22cbe0134e53e0ddb75e299dcfa5e8b",
+    "info": {
+      "size": 491594258,
+      "mtime": 1764604810.0251403
+    }
+  },
+  "videos\\2025-12-03 18-20-59.mkv": {
+    "hash": "098422a9048c467fe9e43457a090195e",
+    "info": {
+      "size": 798636412,
+      "mtime": 1764776424.9882913
+    }
+  },
+  "videos\\2025-12-04 18-50-14.mkv": {
+    "hash": "80c4beafe917f4032035f58a16f2f320",
+    "info": {
+      "size": 294572835,
+      "mtime": 1764858349.7992072
+    }
+  },
+  "videos\\2025-12-04 19-26-09.mkv": {
+    "hash": "3e7ba10fcd7670dca98f1e65c7f95e8a",
+    "info": {
+      "size": 20274338,
+      "mtime": 1764858686.178557
+    }
+  },
+  "videos\\2025-12-04 19-31-32.mkv": {
+    "hash": "614ad6819dbcb651bfa06bfa9518677b",
+    "info": {
+      "size": 417939608,
+      "mtime": 1764863319.3584218
+    }
+  },
+  "videos\\2025-12-05 18-02-38.mkv": {
+    "hash": "3a0c86d704954d1c22df8d1f61cc6327",
+    "info": {
+      "size": 573791114,
+      "mtime": 1764945389.7607152
+    }
+  },
+  "videos\\2025-12-08 18-04-46.mkv": {
+    "hash": "3d3a6e66a331665cbca031c5c99c4df1",
+    "info": {
+      "size": 117524496,
+      "mtime": 1765200239.4898288
+    }
+  },
+  "videos\\2025-12-09 18-50-18.mkv": {
+    "hash": "a746a8a551910abda45f5b648320d719",
+    "info": {
+      "size": 310353696,
+      "mtime": 1765292046.0963545
+    }
+  },
+  "videos\\2025-12-10 18-21-22.mkv": {
+    "hash": "eed886e5181c68c8f0be8d7f717b8f84",
+    "info": {
+      "size": 772420151,
+      "mtime": 1765382161.8219311
+    }
+  },
+  "videos\\2025-12-11 18-13-14.mkv": {
+    "hash": "b84b47598bb275bd0b814e4ba018a30e",
+    "info": {
+      "size": 236381427,
+      "mtime": 1765462859.0671065
+    }
+  },
+  "videos\\2025-12-11 19-30-58.mkv": {
+    "hash": "3e8abdc975e82182d62795011c0e1f68",
+    "info": {
+      "size": 147839577,
+      "mtime": 1765474016.242741
+    }
+  },
+  "videos\\2025-12-12 18-06-07.mkv": {
+    "hash": "c08792142f90363ce17b13d20b03a37b",
+    "info": {
+      "size": 210326421,
+      "mtime": 1765545971.3634071
+    }
+  },
+  "videos\\2025-12-13 08-33-54.mkv": {
+    "hash": "0fb90a4e77496636c6d9a9bb6249b80d",
+    "info": {
+      "size": 504703343,
+      "mtime": 1765601713.9267695
+    }
+  },
+  "videos\\2025-12-15 19-46-59.mkv": {
+    "hash": "6e28d10be2822200799ada3680f670b5",
+    "info": {
+      "size": 359099002,
+      "mtime": 1765813581.1760924
+    }
+  },
+  "videos\\2025-12-18 18-20-46.mkv": {
+    "hash": "10d0406c3ddbb22a8b7095723e8f88d9",
+    "info": {
+      "size": 117908153,
+      "mtime": 1766065441.4773445
+    }
+  },
+  "videos\\2025-12-18 19-31-32.mkv": {
+    "hash": "382a4e1fd593110b12ac5d6f158f70a1",
+    "info": {
+      "size": 470805981,
+      "mtime": 1766072576.8980029
+    }
+  },
+  "videos\\2025-12-20 08-53-53.mkv": {
+    "hash": "ef030b57d8734b99c39e20cfdca889da",
+    "info": {
+      "size": 10503414,
+      "mtime": 1766203099.22362
+    }
+  },
+  "videos\\2025-12-22 18-13-24.mkv": {
+    "hash": "c149b0243eec34a5d36b1745d552ff1e",
+    "info": {
+      "size": 529744017,
+      "mtime": 1766415726.81056
+    }
+  },
+  "videos\\2025-12-23 18-59-47.mkv": {
+    "hash": "f73dd38ec9c023a0e50e0b8e832b947b",
+    "info": {
+      "size": 600225573,
+      "mtime": 1766503352.1846547
+    }
+  },
+  "videos\\2025-12-24 18-23-16.mkv": {
+    "hash": "6614c1bf1918c007af6eeaa1e204600b",
+    "info": {
+      "size": 621979967,
+      "mtime": 1766589606.4375494
+    }
+  },
+  "videos\\\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u043b.1 2025-09-16.mkv": {
+    "hash": "eb2e55c6507f0343b52a10c6832f2d28",
+    "info": {
+      "size": 404607712,
+      "mtime": 1758033709.5699282
+    }
+  },
+  "videos\\\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u043b.2 2025-09-23.mkv": {
+    "hash": "e045735bbe6cb5702df93230b857d46a",
+    "info": {
+      "size": 482778553,
+      "mtime": 1758639659.457902
+    }
+  },
+  "videos\\\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u043b.3 2025-09-30.mkv": {
+    "hash": "c68efb54a03a0087eced4ccf7028e024",
+    "info": {
+      "size": 391133598,
+      "mtime": 1759244697.4167368
+    }
+  },
+  "videos\\\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0438 \u043c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u043d\u0430\u0443\u043a\u0438 2025-09-20.mkv": {
+    "hash": "5fa21fc3733da8533a974c76c90c33cd",
+    "info": {
+      "size": 568998035,
+      "mtime": 1758343809.8000457
+    }
+  },
+  "videos\\\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0438 \u043c\u0435\u0442\u043e\u0434\u043e\u043b\u043e\u0433\u0438\u044f \u043d\u0430\u0443\u043a\u0438 2025-10-04 08-31-15.mkv": {
+    "hash": "89904863f3039883c8cd067fee1843e4",
+    "info": {
+      "size": 456088382,
+      "mtime": 1759553478.082602
+    }
+  },
+  "videos\\\u041a\u043b\u0430\u0441\u0441\u043d\u044b\u0439 \u0447\u0430\u0441.mkv": {
+    "hash": "f576c0ef2e2a1930a2717123a14419f7",
+    "info": {
+      "size": 1426745973,
+      "mtime": 1757012934.9512384
+    }
+  },
+  "videos\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 2025-09-26 18-02-17.mkv": {
+    "hash": "a04b5c1e54768dc0500afd5aeaabfac2",
+    "info": {
+      "size": 439094453,
+      "mtime": 1758896170.1962843
+    }
+  },
+  "videos\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 2025-09-26 19-36-59.mkv": {
+    "hash": "ca0ccae307cc78828695238263665eb4",
+    "info": {
+      "size": 446339144,
+      "mtime": 1758902321.924754
+    }
+  },
+  "videos\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 2025-10-03 18-01-33.mkv": {
+    "hash": "aa092453409a0c66ae6f8ddc47b05bab",
+    "info": {
+      "size": 423109200,
+      "mtime": 1759501446.9040523
+    }
+  },
+  "videos\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 2025-10-03 19-24-12.mkv": {
+    "hash": "5bcc55f95d5ea7867d70b1db5e9c7c11",
+    "info": {
+      "size": 5876242,
+      "mtime": 1759501899.5969815
+    }
+  },
+  "videos\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 2025-10-03 19-32-12.mkv": {
+    "hash": "1be661ff3a2e459c53eb1259b65775ef",
+    "info": {
+      "size": 1230714,
+      "mtime": 1759502033.40607
+    }
+  },
+  "videos\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 2025-10-03 19-34-20.mkv": {
+    "hash": "abdc0ba22d78ed623cc5cf054325b9cc",
+    "info": {
+      "size": 309508023,
+      "mtime": 1759507082.0584748
+    }
+  },
+  "videos\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 2025-10-10 18-01-34.mkv": {
+    "hash": "7943cf98c4c3353037845b722a96011f",
+    "info": {
+      "size": 297871812,
+      "mtime": 1760106340.4671657
+    }
+  },
+  "videos\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 2025-10-10 19-25-42.mkv": {
+    "hash": "d75ac8127b3f2dd647c15abe935f36b9",
+    "info": {
+      "size": 438019310,
+      "mtime": 1760120308.5588562
+    }
+  },
+  "videos\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043b.1 2025-09-19.mkv": {
+    "hash": "74e19017147fb253f88ff9eee99b06a1",
+    "info": {
+      "size": 282403320,
+      "mtime": 1758291653.7771182
+    }
+  },
+  "videos\\\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043b.2 2025-09-19.mkv": {
+    "hash": "0318fb1eb9de3303ef5a52d548b12661",
+    "info": {
+      "size": 192990727,
+      "mtime": 1758297121.5112886
+    }
+  },
+  "videos\\\u041e\u0441\u043d\u043e\u0432\u044b \u043d\u0430\u0443\u043d\u044b\u0445 \u0438\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0424\u041c\u041d 2025-09-15.mkv": {
+    "hash": "209b9e32424f3c2bc34d5b400953f1c7",
+    "info": {
+      "size": 226309002,
+      "mtime": 1757946549.5276928
+    }
+  },
+  "videos\\\u041e\u0441\u043d\u043e\u0432\u044b \u043d\u0430\u0443\u043d\u044b\u0445 \u0438\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0424\u041c\u041d 2025-09-22.mkv": {
+    "hash": "294ba4738f269f6fa2ef18cb894ae23c",
+    "info": {
+      "size": 599643643,
+      "mtime": 1758551035.5887063
+    }
+  },
+  "videos\\\u041e\u0441\u043d\u043e\u0432\u044b \u043d\u0430\u0443\u043d\u044b\u0445 \u0438\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0424\u041c\u041d 2025-09-29.mkv": {
+    "hash": "e773ad829fbbd06b96dfd890e72e686a",
+    "info": {
+      "size": 403823985,
+      "mtime": 1759155638.5343957
+    }
+  },
+  "videos\\\u041e\u0441\u043d\u043e\u0432\u044b \u043d\u0430\u0443\u043d\u044b\u0445 \u0438\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0424\u041c\u041d 2025-10-06 18-01-59.mkv": {
+    "hash": "36251c7ff09dde09e3e70db52e2c6487",
+    "info": {
+      "size": 450977558,
+      "mtime": 1759760404.9691215
+    }
+  },
+  "videos\\\u041e\u0441\u043d\u043e\u0432\u044b \u043d\u0430\u0443\u043d\u044b\u0445 \u0438\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0424\u041c\u041d 2025-10-13 18-02-49.mkv": {
+    "hash": "21f73a0fa3690fad69886e112bc36fa9",
+    "info": {
+      "size": 279535908,
+      "mtime": 1760363111.2622924
+    }
+  },
+  "videos\\\u041e\u0441\u043d\u043e\u0432\u044b \u043d\u0430\u0443\u043d\u044b\u0445 \u0438\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0424\u041c\u041d 2025-10-13 18-45-11.mkv": {
+    "hash": "bbf28a7ca13b2b6708134970d0413ea0",
+    "info": {
+      "size": 224265565,
+      "mtime": 1760365528.9208412
+    }
+  },
+  "videos\\\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0443\u043c \u043f\u043e \u043c\u0435\u0436\u043a\u0443\u043b\u044c\u0442.\u043a\u043e\u043c. 2025-09-11 18-00-28.mkv": {
+    "hash": "721de25f5953d8929802068adb03b8a2",
+    "info": {
+      "size": 214248362,
+      "mtime": 1757600365.2307973
+    }
+  },
+  "videos\\\u041f\u0440\u0430\u043a\u0442\u0438\u043a\u0443\u043c \u043f\u043e \u043c\u0435\u0436\u043a\u0443\u043b\u044c\u0442.\u043a\u043e\u043c. 2025-10-02 18-07-29.mkv": {
+    "hash": "126755a0027405fb69982360236a4126",
+    "info": {
+      "size": 454631766,
+      "mtime": 1759415490.5210545
+    }
+  },
+  "videos\\\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u0430\u044f \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u044f 2025-10-02 19-32-18.mkv": {
+    "hash": "2267855db9bf0c971c7377e597c6d339",
+    "info": {
+      "size": 319075853,
+      "mtime": 1759420161.9916015
+    }
+  },
+  "videos\\\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u0430\u044f \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u044f 2025-10-04 10-01-18.mkv": {
+    "hash": "bfa0bda63cc6c3495f0f38d91a73c528",
+    "info": {
+      "size": 290101950,
+      "mtime": 1759558185.884909
+    }
+  },
+  "videos\\\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u0430\u044f \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u044f 2025-10-09 19-32-03.mkv": {
+    "hash": "aba013e93087e8b8846087efb53bc31d",
+    "info": {
+      "size": 323308026,
+      "mtime": 1760024995.8161588
+    }
+  },
+  "videos\\\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u0430\u044f \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u044f 2025-10-11 10-13-41.mkv": {
+    "hash": "6de723a0f1f86e7e4ef4b8c81b1b3d42",
+    "info": {
+      "size": 119215970,
+      "mtime": 1760161714.7220168
+    }
+  },
+  "videos\\\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u0430\u044f \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u044f \u043b.2 2025-09-25.mkv": {
+    "hash": "75505a9a433b4a96c5441a828ac4520c",
+    "info": {
+      "size": 320480412,
+      "mtime": 1758815405.4802718
+    }
+  },
+  "videos\\\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u0430\u044f \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u044f \u043b.3 2025-09-11.mkv": {
+    "hash": "d6669655e02af023c40a2d0a4043e72b",
+    "info": {
+      "size": 128246815,
+      "mtime": 1757605830.992549
+    }
+  },
+  "videos\\\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u0430\u044f \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u044f \u043f.1 2025-09-13.mkv": {
+    "hash": "bab1246059086b3164a0fba4ccdbc2b5",
+    "info": {
+      "size": 208545194,
+      "mtime": 1757744304.1380172
+    }
+  },
+  "videos\\\u041f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u043d.\u044f\u0437. 2025-09-08 19-29.mkv": {
+    "hash": "642d375c1eadd578f0777378601a0d4e",
+    "info": {
+      "size": 4280288,
+      "mtime": 1757341843.5446875
+    }
+  },
+  "videos\\\u041f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u043d.\u044f\u0437. 2025-09-08 19-31.mkv": {
+    "hash": "77cd99ddfdcc1ebe57eee55e111f8db2",
+    "info": {
+      "size": 255641602,
+      "mtime": 1757346056.3302543
+    }
+  },
+  "videos\\\u041f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u043d.\u044f\u0437. 2025-09-22.mkv": {
+    "hash": "e2a3d6fceb50148cf58ba1ea22640c0a",
+    "info": {
+      "size": 319711041,
+      "mtime": 1758555716.476259
+    }
+  },
+  "videos\\\u041f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u043d.\u044f\u0437. 2025-10-06 19-30-21.mkv": {
+    "hash": "704bc0123e3973b25997d3bbe456e471",
+    "info": {
+      "size": 371788777,
+      "mtime": 1759765682.4060035
+    }
+  },
+  "videos\\\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u043c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435\u043c \u043b.1 2025-09-24.mkv": {
+    "hash": "3808adcda47549c55307350612535b5b",
+    "info": {
+      "size": 497686856,
+      "mtime": 1758725147.526815
+    }
+  },
+  "videos\\\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u043c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435\u043c \u043b.2 2025-09-24.mkv": {
+    "hash": "0a7fbb6ffb513872c5da61c7a95d3466",
+    "info": {
+      "size": 649854970,
+      "mtime": 1758731359.368496
+    }
+  },
+  "videos\\\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u043c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435\u043c \u043b.3 2025-10-01.mkv": {
+    "hash": "cedf13e3dc0ecbc3ec9bf2a758a70124",
+    "info": {
+      "size": 614505194,
+      "mtime": 1759334162.0860775
+    }
+  },
+  "videos\\\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u043c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435\u043c \u043b.4 2025-10-08 18-28-03.mkv": {
+    "hash": "8bf2d5b3f7efb76042976948b6929a05",
+    "info": {
+      "size": 1041944570,
+      "mtime": 1759941604.4606156
+    }
+  },
+  "videos\\\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u043c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435\u043c \u043b.5 2025-10-15 18-41-18.mkv": {
+    "hash": "51e20b0c94cc34935164b9b48330bb14",
+    "info": {
+      "size": 484885881,
+      "mtime": 1760540770.3038802
+    }
+  },
+  "videos\\\u0423\u0447\u0435\u0431\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430, \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438 2025-09-15.mkv": {
+    "hash": "6b5bcd28fe916756eb348c7020576b14",
+    "info": {
+      "size": 187621901,
+      "mtime": 1757950687.991996
+    }
+  },
+  "videos\\\u0423\u0447\u0435\u0431\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430, \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438 2025-09-29.mkv": {
+    "hash": "908e9db6cff51cfe78f87900c87dbabe",
+    "info": {
+      "size": 275272312,
+      "mtime": 1759161033.183481
+    }
+  }
+}

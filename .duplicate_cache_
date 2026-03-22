@@ -1,1 +1,79 @@
-{"find_duplicates copy.py": {"hash": "e7b858f93e9d260bb7e0cbafedced2d2", "info": {"size": 4133, "mtime": 1774081097.349938}}, "find_duplicates.py": {"hash": "e7b858f93e9d260bb7e0cbafedced2d2", "info": {"size": 4133, "mtime": 1774083884.7877214}}, "src\\duplicate_finder.py": {"hash": "86b815fa5a30167cd1f503d44bfe2a4f", "info": {"size": 16047, "mtime": 1774198741.4527335}}, "src\\main.py": {"hash": "ed4eed57c4f35b934d3534a66d1f4733", "info": {"size": 2502, "mtime": 1774198741.3415282}}, "duplicate_report.html": {"hash": "ed483fe3b9c6d5ce9a4e9725c8c7a3cf", "info": {"size": 3425, "mtime": 1774198426.2492857}}, "src\\report_generator.py": {"hash": "b643aeb3fce7cbea26bfedd6a57ff28f", "info": {"size": 4932, "mtime": 1774198741.3405302}}, "src\\utils.py": {"hash": "310ce84ead9f9c7884c54f714bc7c957", "info": {"size": 1971, "mtime": 1774198741.3794248}}, "src\\__pycache__\\duplicate_finder.cpython-313.pyc": {"hash": "d3e57785eea49b8559a8197508c521f6", "info": {"size": 15995, "mtime": 1774198743.937405}}}
+{
+  "find_duplicates copy.py": {
+    "hash": "e7b858f93e9d260bb7e0cbafedced2d2",
+    "info": {
+      "size": 4133,
+      "mtime": 1774081097.349938
+    }
+  },
+  "find_duplicates.py": {
+    "hash": "e7b858f93e9d260bb7e0cbafedced2d2",
+    "info": {
+      "size": 4133,
+      "mtime": 1774083884.7877214
+    }
+  },
+  "src\\duplicate_finder.py": {
+    "hash": "c132921dce8ab1010aed7634674a53c4",
+    "info": {
+      "size": 9229,
+      "mtime": 1774199562.8238642
+    }
+  },
+  "src\\main.py": {
+    "hash": "ed4eed57c4f35b934d3534a66d1f4733",
+    "info": {
+      "size": 2502,
+      "mtime": 1774198741.3415282
+    }
+  },
+  "duplicate_report.html": {
+    "hash": "9c0e50697f541ff041e6c2be08b76f8d",
+    "info": {
+      "size": 2714,
+      "mtime": 1774199571.2096815
+    }
+  },
+  "src\\report_generator.py": {
+    "hash": "b643aeb3fce7cbea26bfedd6a57ff28f",
+    "info": {
+      "size": 4932,
+      "mtime": 1774198741.3405302
+    }
+  },
+  "src\\utils.py": {
+    "hash": "310ce84ead9f9c7884c54f714bc7c957",
+    "info": {
+      "size": 1971,
+      "mtime": 1774198741.3794248
+    }
+  },
+  "src\\__pycache__\\duplicate_finder.cpython-313.pyc": {
+    "hash": "4a6e74bd8d62250e2a7ed5878910c1f5",
+    "info": {
+      "size": 15995,
+      "mtime": 1774199487.0048325
+    }
+  },
+  "src\\__pycache__\\report_generator.cpython-313.pyc": {
+    "hash": "882fbde97b2ec443a88ee3e16e72d963",
+    "info": {
+      "size": 5698,
+      "mtime": 1774199571.2051876
+    }
+  },
+  "src\\__pycache__\\utils.cpython-313.pyc": {
+    "hash": "1eecc4285792681464a1712f4d69bc58",
+    "info": {
+      "size": 3758,
+      "mtime": 1774199571.2031927
+    }
+  },
+  "src\\utils copy.py": {
+    "hash": "310ce84ead9f9c7884c54f714bc7c957",
+    "info": {
+      "size": 1971,
+      "mtime": 1774199615.1830823
+    }
+  }
+}
