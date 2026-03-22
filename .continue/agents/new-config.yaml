@@ -13,6 +13,7 @@ models:
       - edit
     capabilities:
       - tool_use 
+    contextLength: 16384
   - name: qwen2.5-coder 1.5b
     provider: ollama
     model: qwen2.5-coder:1.5b
