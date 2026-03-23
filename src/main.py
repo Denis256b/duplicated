@@ -44,21 +44,17 @@ def main():
     # Ищем дубликаты
     duplicates = find_duplicates_between_folders(source_folder, search_folder)
     
-    # Выводим результаты в консоль
+        # Выводим результаты в консоль
     if duplicates:
         print(f"\nНайдено {len(duplicates)} дублирующихся файлов:")
-        for hash_value, group in duplicates.items():
-            print(f"Хэш: {hash_value} (размер: {group['size']} байт)")
-            for file_pair in group['files']:
-                print(f"  {file_pair['source']} -> {file_pair['search']}")
+        for source_file, search_file in duplicates:
+            print(f"  {source_file} -> {search_file}")
     else:
         print("\nДубликаты не найдены.")
     
     # Генерируем HTML-отчет
-    result_directory = "results"
-    os.makedirs(result_directory, exist_ok=True)
-    html_file = generate_html_report(duplicates, result_directory)
-    
+    html_file = generate_html_report(duplicates, source_folder, search_folder)
+        
     if html_file:
         # Открываем отчет в браузере
         open_html_report(html_file)

@@ -11,7 +11,8 @@ def find_duplicates_between_folders(source_folder, search_folder, use_cache=True
     """Находит файлы в source_folder, которые имеют дубликаты в search_folder"""
     
     # Путь к файлу кэша
-    cache_file = f".duplicate_cache_{os.path.basename(search_folder)}"
+    #cache_file = f".duplicate_cache_{os.path.basename(search_folder)}"
+    cache_file = f".duplicate_cache"
     
     # Загружаем существующий кэш
     cache = {}
